@@ -17,6 +17,12 @@ https://stream.raajje.mv/live/rtv_live/index.m3u8
 #EXTINF:-1 tvg-id="MMTV.mv" tvg-name="MM TV" tvg-logo="https://8upload.com/image/67da2269226dd/7-mmtv.png" group-title="Dhivehi",MM TV
 https://sendlive.online/hls/mmtv.m3u8
 
+#EXTINF:-1 tvg-id="vtv" tvg-name="VTV" tvg-logo="https://8upload.com/image/67da22691912d/6-vtv.png" group-title="Dhivehi",Villa TV
+https://maldivesn.net/hilaytv/vtv
+
+#EXTINF:-1 tvg-id="ntv" tvg-name="NTV" tvg-logo="https://8upload.com/image/689e41c846c96/ntvhilay.png" group-title="Dhivehi",NTV
+https://maldivesn.net/hilaytv/ntv
+
 #EXTINF:-1 tvg-id="SSTV.mv" tvg-name="SSTV" tvg-logo="https://8upload.com/image/67da240232521/12-sstv.png" group-title="Dhivehi",SSTV
 https://sstv.ssplay.mv/hls/sstv-live/index.m3u8
 
@@ -27,7 +33,7 @@ https://maldivesn.net/hilaytv/events1
 https://maldivesn.net/hilaytv/events2
 
 #EXTINF:-1 tvg-id="Channel13.mv" tvg-name="Channel 13" tvg-logo="https://8upload.com/image/67da24023ddf5/13-chn_13.png" group-title="Dhivehi",Channel 13
-https://www.youtube.com/c/Channel13mv/live
+https://maldivesn.net/hilaytv/channel13
 
 #EXTINF:-1 tvg-id="Yes.mv" tvg-name="YES TV" tvg-logo="https://8upload.com/image/67da24021b0f7/10-yestv.png" group-title="Dhivehi",YES TV
 https://maldivesn.net/hilaytv/yeshilay
@@ -39,7 +45,7 @@ https://maldivesn.net/hilaytv/psmnews
 https://maldivesn.net/hilaytv/mendhurutv
 
 #EXTINF:-1 tvg-id="DhaarisTV.mv" tvg-name="Dhaaris TV" tvg-logo="https://8upload.com/image/67da2402561e8/15-dhaaristv.png" group-title="Dhivehi",Dhaaris TV
-https://maldivesn.net/hilaytv/dhaaris
+https://www.youtube.com/@dhaaristv/live
 
 #EXTINF:-1 tvg-id="RelaxTV.mv" tvg-name="Relax TV" tvg-logo="https://8upload.com/image/67da25cd3ea78/19-relaxtv.png" group-title="Music",Relax TV
 https://maldivesn.net/hilaytv/relaxtv
@@ -58,6 +64,9 @@ https://maldivesn.net/hilaytv/dheenugeadu
 
 #EXTINF:-1 tvg-id="Munnaaru.mv" tvg-name="Munnaaru TV" tvg-logo="https://8upload.com/image/67da24022770f/11-munnarutv.png" group-title="Dhivehi",Munnaaru TV
 https://maldivesn.net/hilaytv/munnaaruhilay
+
+#EXTINF:-1 tvg-id="quruantharujama" tvg-name="Quruan Tharujama" tvg-logo="https://8upload.com/image/689e73953c851/quruandhivehitharujamahilay.png" group-title="Dhivehi",Quruan Tharujama
+https://maldivesn.net/hilaytv/quruantharujama
 
 #EXTINF:-1 tvg-id="bguruan" tvg-name="Bahrain Quruan" tvg-logo="https://8upload.com/image/68419e56dfed6/bahrainquruanhilay.png" group-title="Islam",Bahrain Quruan
 https://maldivesn.net/hilaytv/bahrainquruantv
@@ -769,6 +778,9 @@ https://maldivesn.net/hilaytv/mtvplus
 
 #EXTINF:-1 tvg-id="b4umovies.mv" tvg-name="B4U Movies" tvg-logo="https://8upload.com/image/67d946b344d91/b4umovies.png" group-title="Music",B4U Movies
 https://maldivesn.net/hilaytv/b4umovies
+
+#EXTINF:-1 tvg-id="sunplaymusic" tvg-name="Sunplay Music" tvg-logo="https://8upload.com/image/689e9013480a2/sunplaymusichilay.png" group-title="Music",Sunplay Music
+https://maldivesn.net/hilaytv/sunplaymusic
 
 #EXTINF:-1 tvg-id="stingrayhitlist.mv" tvg-name="Stinngray Hitlist" tvg-logo="https://8upload.com/image/687db19e604b4/stingrayhitlisthilay.png" group-title="Music",Stinngray Hitlist
 https://maldivesn.net/hilaytv/stingrayhitlist
