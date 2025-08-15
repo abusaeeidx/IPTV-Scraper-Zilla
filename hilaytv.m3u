@@ -86,6 +86,21 @@ https://maldivesn.net/hilaytv/hilaaltv
 #EXTINF:-1 tvg-id="Peacetv.mv" tvg-name="Peace TV HD" tvg-logo="https://8upload.com/image/67da25cd6c28c/22-peachtvhd.png" group-title="Islam",Peace TV HD
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 
+#EXTINF:-1 tvg-id="Saudi.TV.tr" tvg-name="" tvg-logo="https://i.imgur.com/GRQTndk.png" group-title="Islam",Al Saudiya KSA 1
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
+
+#EXTINF:-1 tvg-id="Al.Quran.Al.Kareem.tr" tvg-name="" tvg-logo="https://i.imgur.com/A2fJysM.png" group-title="Islam",KSA Quran TV (MAKKAH)
+http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Al.Sunnah.Al.Nabawiya.tr" tvg-name="" tvg-logo="https://i.imgur.com/S6LcTJv.png" group-title="Islam",KSA Sunna TV (MADINAH)
+http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IQRA.TV.uk" tvg-name="" tvg-logo="https://i.imgur.com/HPVsIa4.png" group-title="Islam",Iqraa Quran
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Makkah.TV.id" tvg-name="" tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="Islam",Makkah TV
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AlJazeera.mv" tvg-name="Al Jazeera TV" tvg-logo="https://8upload.com/image/68707a3d8acaa/aljazeeraenglishhilay.png" group-title="News",Al Jazeera TV
 https://maldivesn.net/hilaytv/aljazeeraenaws
 
@@ -883,27 +898,6 @@ https://maldivesn.net/hilaytv/nasatv
 
 #EXTINF:-1 tvg-id="cloudflaretv.mv" tvg-name="Cloudflare TV" tvg-logo="https://8upload.com/image/67ef6a0a8d1de/cloudflaretvhilay.png" group-title="Technology",Cloudflare TV
 https://maldivesn.net/hilaytv/cloudflaretv
-
-#EXTINF:-1 tvg-id="Saudi.TV.tr" tvg-name="" tvg-logo="https://i.imgur.com/GRQTndk.png" group-title="Religious",Al Saudiya KSA 1
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
-
-#EXTINF:-1 tvg-id="Al.Quran.Al.Kareem.tr" tvg-name="" tvg-logo="https://i.imgur.com/A2fJysM.png" group-title="Religious",KSA Quran TV (MAKKAH)
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Al.Sunnah.Al.Nabawiya.tr" tvg-name="" tvg-logo="https://i.imgur.com/S6LcTJv.png" group-title="Religious",KSA Sunna TV (MADINAH)
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-
-#EXTINF:-1 tvg-id="IQRA.TV.uk" tvg-name="" tvg-logo="https://i.imgur.com/HPVsIa4.png" group-title="Religious",Iqraa Quran
-https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="IslamChannel.uk" tvg-name="" tvg-logo="https://portal.simplestreamcdn.com/172/642f780c-islamtv.png" group-title="Religious",Islam Channel
-https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/bitrate1-audio_0=128000-video=2406976.m3u8
-
-#EXTINF:-1 tvg-id="Makkah.TV.id" tvg-name="" tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="Religious",Makkah TV
-https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PeaceTVEnglish.ae" tvg-name="" tvg-logo="https://nuwubfmrtorg.merlincdn.net/peace-tv/assets/web/general/logo.png" group-title="Religious",Peace TV
-https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="and.Flix.HD.in" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/and-flix-hd-in.png"group-title="English",&flix HD
 https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=3228
