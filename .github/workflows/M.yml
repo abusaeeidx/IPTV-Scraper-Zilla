@@ -1,0 +1,55 @@
+name: Merge M3U
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  merge-m3u:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Merge all
+      run: |
+        mkdir -p merged_tmp
+        echo -n > merged_tmp/combined-playlist.m3u
+
+        find . -type f -name "*.m3u" ! -path "./merged_tmp/*" ! -name "combined-playlist.m3u" | while read file; do
+          base=$(basename "$file" .m3u)
+          awk -v grp="$base" '
+            NR == 1 && $0 == "#EXTM3U" { next }
+            /^#EXTINF/ {
+              if ($0 ~ /group-title="/) {
+                sub(/group-title="[^"]*"/, "group-title=\"" grp "\"")
+              } else {
+                sub(/#EXTINF:/, "#EXTINF:-1 group-title=\"" grp "\",")
+              }
+              print
+              getline
+              print
+              next
+            }
+            { print }
+          ' "$file" >> merged_tmp/combined-playlist.m3u
+        done
+
+        sed -i '1i #EXTM3U' merged_tmp/combined-playlist.m3u
+
+        mv merged_tmp/combined-playlist.m3u combined-playlist.m3u
+        rm -rf merged_tmp
+
+    - name: Commit and push merged playlist
+      run: |
+        git config user.name "${{ secrets.GIT_U }}"
+        git config user.email "${{ secrets.GIT_E }}"
+        git add combined-playlist.m3u
+        if ! git diff --cached --quiet; then
+          git commit -m "Auto-merged m3u playlists $(date -u +"%Y-%m-%d %H:%M UTC")"
+          git push
+        else
+          echo "No changes to commit"
+        fi

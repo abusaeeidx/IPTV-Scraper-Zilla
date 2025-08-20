@@ -1,0 +1,57 @@
+name: Merge CricHD Playlists
+
+on:
+  schedule:
+    - cron: "*/20 * * * *"
+  workflow_dispatch:
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Download and Merge M3U
+        run: |
+          import requests, re, os
+          url1 = os.environ["CRICHD1_URL"]
+          url2 = os.environ["CRICHD2_URL"]
+          m3u1 = requests.get(url1).text.strip().splitlines()
+          m3u2 = requests.get(url2).text.strip().splitlines()
+          def change_group_title(lines, title):
+              result = []
+              for line in lines:
+                  if line.startswith("#EXTINF:"):
+                      if 'group-title="' in line:
+                          line = re.sub(r'group-title="[^"]*"', f'group-title="{title}"', line)
+                      else:
+                          line = line.replace(',', f' group-title="{title}",', 1)
+                  result.append(line)
+              return result
+          m3u1 = change_group_title(m3u1, "CricHD 1")
+          m3u2 = change_group_title(m3u2, "CricHD 2")
+          merged = ["#EXTM3U"] + m3u1[1:] + m3u2[1:]
+          with open("CricHD.m3u", "w", encoding="utf-8") as f:
+              f.write("\n".join(merged))
+        env:
+          CRICHD1_URL: ${{ secrets.CRICHD1_URL }}
+          CRICHD2_URL: ${{ secrets.CRICHD2_URL }}
+        shell: python
+
+      - name: Commit and Push
+        run: |
+          git config user.name "${{ secrets.GIT_U }}"
+          git config user.email "${{ secrets.GIT_E }}"
+          git add CricHD.m3u
+          git commit -m "Auto-merge CricHD playlists" || echo "No changes"
+          git push

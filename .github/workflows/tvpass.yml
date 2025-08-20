@@ -1,0 +1,33 @@
+name: Update TVPass Playlist
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' 
+  workflow_dispatch:       
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run tvpass.py
+        run: python file/tvpass.py
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "${{ secrets.GIT_U }}"
+          git config user.email "${{ secrets.GIT_E }}"
+          git add TVPass.m3u
+          git diff --cached --quiet || git commit -m "auto-update TVPass.m3u"
+          git push
