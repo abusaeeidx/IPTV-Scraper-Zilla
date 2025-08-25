@@ -908,12 +908,6 @@ https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=3217
 #EXTINF:-1 tvg-id="and.PRIVE.HD.in" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/and-prive-hd-in.png"group-title="English",&prive HD
 https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=3141
 
-#EXTINF:-1 tvg-id="Animax.hk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/animax-hk.png"group-title="English",Animax
-http://vthanh.utako.moe/Animax/index.m3u8
-
-#EXTINF:-1 tvg-id="ATX.jp" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/1024px-AT-X_logo.svg.png"group-title="English",AT-X
-http://vthanh.utako.moe/AT-X/index.m3u8
-
 #EXTINF:-1 tvg-id="AXN.ph" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/axn-es.png" group-title="English",AXN
 http://125hvt.ddns.net:21585/axn/index.m3u8
 
@@ -1366,9 +1360,6 @@ http://fl3.moveonjoy.com/FOOD_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="FYI.USA.-.Eastern.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fyi-us.png" group-title="Infotainment",fyi
 http://fl5.moveonjoy.com/FYI/index.m3u8
 
-#EXTINF:-1 tvg-id="FashionTV.au" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/fashion-tv-int.png" group-title="Infotainment",Fashion TV
-https://aa1ce778ea0544e4aa7429bc8a16eb1c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-in_FashionTV/playlist.m3u8
-
 #EXTINF:-1 tvg-id="plex.tv.GUSTOTV.plex" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/gusto-tv-vod-us.png" group-title="Infotainment",Gusto TV
 https://a7b051df6d2841b39e1c194904d25699.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_GustoTV-1/playlist.m3u8
 
@@ -1380,9 +1371,6 @@ http://fl3.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
 
 #EXTINF:-1 tvg-id="Luxe TV HD" tvg-name="" tvg-logo="https://medianet.mv/media/channel/134x0-icon.png" group-title="Infotainment",Luxe TV HD
 http://4gtv.mumi.rip:9877/175/4gtv-live121/index.m3u8
-
-#EXTINF:-1 tvg-id="NASA.Public.Educational.Channel.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nasa-tv-us.png" group-title="Infotainment",NASA ISS
-https://api.m3use.projectmoose.xyz/m3u/mv-tv/MVTV/67f5b4554567877a434a2b9a.m3u8?uid=mv-tv&pkey=uQc62M
 
 #EXTINF:-1 tvg-id="Outdoor.Channel.hk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/outdoor-channel-au.png" group-title="Infotainment",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
@@ -1434,9 +1422,6 @@ http://cord-cutter.net:8080/95549031/69361122/2206
 #EXTINF:-1 tvg-id="DISNEY.JUNIOR.in" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/disney-jr-uk.png" group-title="Kids",Disney Junior
 http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
 
-#EXTINF:-1 tvg-id="Moonbug.my" tvg-name="" tvg-logo="https://medianet.mv/media/channel/246x0-icon.png" group-title="Kids",Moonbug
-https://moonbug-rokuus.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="NICK.HD+.in" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/nick-hd-plus-in.png" group-title="Kids",Nick HD+
 https://allinonereborn.fun/opplex1991/index.php?id=76722
 
@@ -1452,21 +1437,6 @@ http://212.102.60.231/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="Teennick.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/teen-nick-us.png"group-title="Kids",Teen Nick
 http://38.96.178.201:80/live/TeenNick/index.m3u8
 
-#EXTINF:-1 tvg-id="Sensical.jr.us" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/ttte/images/a/a9/SensicalJr..png"group-title="Kids",Sensical Jr.
-https://sensical2up-oando.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sensical.makers.us" tvg-name="" tvg-logo="https://cdn.prod.website-files.com/6164b946875e876d5eaed31e/65d912b73e2c2056c55c935e_Sensical_MAKERS-Color_GREEN-p-500.png"group-title="Kids",Sensical Makers
-https://sensical5up-oando.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PBS.Kids.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-kids-dash-icon-us.png" group-title="Kids",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ZOO.MOO.ph" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/zoo-moo-int.png" group-title="Kids",Zoo Moo
-https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ArabicaTV.lb" tvg-name="" tvg-logo="https://www.arabicagroup.tv/images/app1.png" group-title="Music",Arabica TV HD
-http://istream.binarywaves.com:8081/hls/arabica/arabicatv_1080/index.m3u8
-
 #EXTINF:-1 tvg-id="MTV.Live.HD.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/mtv-live-hd-uk.png" group-title="Music",MTV  Live HD
 http://fl3.moveonjoy.com/MTV/index.m3u8
 
@@ -1479,26 +1449,14 @@ https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=3113
 #EXTINF:-1 tvg-id="MTVHitsEurope.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/mtv-hits-uk.png" group-title="Music",MTV Hits Europe
 http://45.88.92.3:80/tr3_MTVHits_SD/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="B4U.MUSIC.in" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/b4u-music-in.png" group-title="Music",B4U MUSIC
-https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=3118
-
 #EXTINF:-1 tvg-id="Mezzo.live.fr" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/mezzo-live-fr.png" group-title="Music",Mezzo Live
 http://4gtv.mumi.rip:9877/79/4gtv-4gtv083/index.m3u8
 
 #EXTINF:-1 tvg-id="My.Music.al" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/48/My-Music-logo.jpg" group-title="Music",My Music
 http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/96101
 
-#EXTINF:-1 tvg-id="MUSIC.INDIA.in" tvg-name="" tvg-logo="https://musicindiatv.mwpsites-a.net/wp-content/uploads/2017/05/music-india-logo.png" group-title="Music",Music India
-http://tv.cloudcdn.me:80/live.ts?channelId=175&uid=16068&deviceMac=00:1A:79:ED:10:29
-
-#EXTINF:-1 tvg-id="MPlusHD.sa" tvg-name="" tvg-logo="https://i.imgur.com/vnbRyDs.png" group-title="Music",M+ HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/playlist.m3u8
-
 #EXTINF:-1 tvg-id="hittv.es" tvg-name="" tvg-logo="https://tvprofil.com/img/kanali-logo/HIT_TV_logo.svg.png" group-title="Music",HIT TV
 http://185.189.225.149/HitTV/index.m3u8
-
-#EXTINF:-1 tvg-id="Hindi.Hits.HD.in" tvg-name="" tvg-logo="https://i.postimg.cc/Y99S24tD/hindihitshd.jpg" group-title="Music",Hindi Hits HD
-http://146.59.253.52:8080/hindihitshd/index.m3u8
 
 #EXTINF:-1 tvg-id="Stingray.CMusic.gr" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/stingray-cmusic-ca.png" group-title="Music",Stingray cmusic
 https://freelivtvopplexm3u8.netlify.app/play.m3u8?id=350215
@@ -1525,71 +1483,11 @@ https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 tvg-id="StingrayRockAlternative.ca" tvg-name="" tvg-logo="https://i.imgur.com/mt8ulVX.png" group-title="Music",Stingray Rock Alternative
 https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="TRACE.Urban.distro" tvg-name="" tvg-logo="https://medianet.mv/media/channel/145x0-icon.png" group-title="Music",Trace Urban HD
-http://4gtv.mumi.rip:9877/78/4gtv-4gtv082/index.m3u8
-
-#EXTINF:-1 tvg-id="TRACE.UK.distro" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Trace_UK_Logo.png" group-title="Music",Trace UK
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/7013922b-f9bf-4cf0-b951-e79540fccd8a/3.m3u8
-
 #EXTINF:-1 tvg-id="VH1.-.Eastern.Feed.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/vh1-us.png" group-title="Music",VH1
 http://fl3.moveonjoy.com/VH1/index.m3u8
 
 #EXTINF:-1 tvg-id="yrf.music.in" tvg-name="" tvg-logo="https://a.jsrdn.com/hls/23146/yrf-music/logo_20240322_175611_70.png" group-title="Music",YRF Music
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/df5ad691-27f7-4b6b-afe7-27584a66e39a/0.m3u8
-
-#EXTINF:-1 tvg-id="ZOOM.in" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/zoom-in.png" group-title="Music",Zoom
-https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=3115
-
-#EXTINF:-1 tvg-id="9X.Jalwa.in" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/9x-jalwa-in.png" group-title="Music",9X Jalwa
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
-
-#EXTINF:-1 tvg-id="9XM.in" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/9xm-in.png" group-title="Music",9XM
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
-
-#EXTINF:-1 tvg-id="Al.Jazeera.English.id" tvg-name="" tvg-logo="https://medianet.mv/media/channel/149x0-icon.png" group-title="News",AL JAZEERA ENG
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-
-#EXTINF:-1 tvg-id="Palestine.TV.ps" tvg-name="" tvg-logo="https://www.pbc.ps/wp-content/uploads/2021/08/pbc_logo_w256.png" group-title="News",Palestine TV
-https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="presstv.ir" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/press-tv-int.png" group-title="News",PRESS TV
-https://live.presstv.ir/hls/presstv_5_482/index.m3u8
-
-#EXTINF:-1 tvg-id="Al.Arabiya.ae" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/al-arabiya-ae.png" group-title="News",AL ARABIYA
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Aljazeera.id" tvg-name="" tvg-logo="https://medianet.mv/media/channel/37x0-icon.png" group-title="News",AL JAZEERA ARABIC
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-
-#EXTINF:-1 tvg-id="Almayadeen.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Al_Mayadeen_logo.svg/1024px-Al_Mayadeen_logo.svg.png" group-title="News",AL MAYADEEN ARABIC
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id=BBC.NEWS.HD.uk" tvg-name="" tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png" group-title="News",BBC NEWS UK
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-
-#EXTINF:-1 tvg-id=BBC.NEWS.HD.uk" tvg-name="" tvg-logo="https://medianet.mv/media/channel/12x0-icon.png" group-title="News",BBC NEWS
-http://125.209.88.166:45793/BRN/BBCWorld.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CNN.International.(HD).sg" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/cnn-international-int.png" group-title="News",CNN INTERNATIONAL
-https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="News",CNN US
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
-
-#EXTINF:-1 tvg-id="Fox.News.us" tvg-name="" tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title="News",FOX NEWS
-http://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
-
-#EXTINF:-1 tvg-id="Sky.News.HD.sg" tvg-name="" tvg-logo="https://i.imgur.com/uFKLmbL.png" group-title="News",SKY NEWS
-https://linear417-gb-hls3-prd-ak.cdn.skycdp.com/100e/Content/HLS_004_1080_30/Live/channel(skynews)/index_1080.m3u8
-
-#EXTINF:-1 tvg-id="ABC.NEWS.us" tvg-name="" tvg-logo="https://i.ibb.co/jJDxCxN/abc.jpg" group-title="News",ABC NEWS US
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF:-1 tvg-id="France.24.(English).sg" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-24-fr.png" group-title="News",France 24 English
-https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
-
-#EXTINF:-1 tvg-id="ABCNewsBrisbane.au" tvg-name="" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="News",ABC News Australia
-https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
 
 #EXTINF:-1 tvg-id="Bloomberg.TV.USA.us" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="News",Bloomberg TV US
 https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
@@ -1597,47 +1495,17 @@ https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
 #EXTINF:-1 tvg-id="BloombergTelevision.au" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="News",Bloomberg TV AUS
 https://4da261f13a2445c2a8fada9704df3e17.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_Bloomberg/playlist.m3u8?ads.wurl_channel=869&ads.wurl_name=Bloomberg&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 tvg-id="CNA.(HD).sg" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/singapore/cna-sg.png" group-title="News",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York.NY.us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/960px-CBS_News.svg.png" group-title="News",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
 #EXTINF:-1 tvg-id="CNBC.USA.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cnbc-us.png" group-title="News",CNBC
 http://fl5.moveonjoy.com/CNBC/index.m3u8
 
-#EXTINF:-1 tvg-id="DW.English.ca" tvg-name="" tvg-logo="https://i.ibb.co/84XLZJq/dw.png" group-title="News",DW English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-
-#EXTINF:-1 tvg-id="Fox.News.us" tvg-name="" tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title="News",LIVE NOW FOX
-https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Euronews.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/euro-news-int.png" group-title="News",Euro News
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/28ae564e-aa2e-4ba5-8f46-6983f77e57c6/5.m3u8
-
 #EXTINF:-1 tvg-id="HLN.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hln-us.png" group-title="News",HLN US
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="NBCNewsNowHD.uk" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-news-now-us.png" group-title="News",NBC NEWS
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b
-
-#EXTINF:-1 tvg-id="NHK.World.–.Japan.(HD).sg" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/nhk-world-japan-int.png" group-title="News",NHK WORLD
-https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
-
-#EXTINF:-1 tvg-id="plex.tv.Reuters.TV.plex" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/reuters-vod.png" group-title="News",REUTERS
-https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
-
-#EXTINF:-1 tvg-id="rtm.asean.my" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/rtm-asean-my.png" group-title="News",RTM ASEAN
-https://d25tgymtnqzu8s.cloudfront.net/main/Vry6vX/1080p.m3u8
-
-#EXTINF:-1 tvg-id="Russia.Today.in" tvg-name="" tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="News",RT NEWS
-https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-
-#EXTINF:-1 tvg-id="Scripps.News.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/scripps-news-us.png" group-title="News",SCRIPPS NEWS
-https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
-
-#EXTINF:-1 tvg-id="TRT.World.tr" tvg-name="" tvg-logo="https://i.ibb.co/nP9xpck/trtw.png" group-title="News",TRT WORLD
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="Yahoo.Finance.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/yahoo-finance-vod.png" group-title="News",Yahoo Finance
 https://yahoo-samsung.amagi.tv/playlist.m3u8
@@ -1650,9 +1518,6 @@ https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/ind
 
 #EXTINF:-1 tvg-id="INDIA.TODAY.in" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/india-today-in.png" group-title="News",INDIA TODAY
 https://feeds.intoday.in/hltapps/api/master.m3u8
-
-#EXTINF:-1 tvg-id="NDTV.24x7.za" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/ndtv-24x7-in.png" group-title="News",NDTV 24X7
-https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-ndtv24x7-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 #EXTINF:-1 tvg-id="TIMES.NOW.HD.in" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/times-now-in.png" group-title="News",Times Now
 https://d3pvf6sv7wsu07.cloudfront.net/master.m3u8
@@ -1676,10 +1541,6 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 
 #EXTINF:-1 tvg-id="LaLigaTV.es" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/laliga-tv-uk.png" group-title="Sports",Laliga TV UK
 http://mains.services/live/pmf0423/1aku0jt%40/36097dae-f908-43cf-9bc8-84e8c3bd33b9.m3u
-
-#EXTINF:-1 tvg-id="dazn.it" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/447px-Serie_A_logo_2022.svg.png" group-title="Sports",Serie A 
-
-
 
 #EXTINF:-1 tvg-id="STAR.SPORTS.SELECT.1.HD.in" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/star-sports-select-1-in.png" group-title="Sports",Star Sports Select 1 HD
 http://s5.alltvfree.com:8081/live/spselect1_720p/playlist.m3u8
@@ -2013,9 +1874,6 @@ http://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
 
 #EXTINF:-1 tvg-id="BBC.World.News.North.America.(BBCWN).us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-world-news-uk.png" group-title="USA",BBC WORLD NEWS
 http://fl3.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
-
-#EXTINF:-1 tvg-id="beIN.Sport.USA.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bein-sports-us.png" group-title="USA",BEIN SPORTS
-http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="BET.-.Eastern.Feed.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png" group-title="USA",BET
 http://fl3.moveonjoy.com/BET_EAST/index.m3u8
