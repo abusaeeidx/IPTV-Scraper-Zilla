@@ -2,22 +2,24 @@
 # 🖥️ Developed by: Abu SAEEID X Noob
 # 🔗 GitHub/Telegram: @abusaeeidx
 # 📡 IPTV Telegram Channels: @xfireflixbd
-# 🕒 Last Updated: 2025-08-28 12:21:08 AM (BD Time)
-# 📺 Channels Count : 470
+# 🕒 Last Updated: 2025-08-28 07:10:24 AM (BD Time)
+# 📺 Channels Count : 471
 # 📜 Disclaimer:
 # 🎯 This tool does NOT host any content.
 # 📌 It aggregates publicly available data for informational purposes only.
 # 📩 For any issues or concerns, please contact the developer.
 #==================================
 #EXTM3U
-#EXTINF:-1 tvg-id="billiard-tv" tvg-logo="https://a.jsrdn.com/hls/22964/billiard-tv/poster_20210622_195953.png" group-title="Featured",Billiard TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/billi.m3u8
+#EXTINF:-1 tvg-id="outside-tv" tvg-logo="https://a.jsrdn.com/hls/22765/outside-tv/poster_20220613_202039.png" group-title="Featured",Outside
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/outsidetv/playlist.m3u8
 #EXTINF:-1 tvg-id="bloomberg-television" tvg-logo="https://a.jsrdn.com/hls/22938/bloomberg-television/poster_20210205_222905.jpg" group-title="Featured",Bloomberg Television
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bloomberg-television/bloombergtv.m3u8
 #EXTINF:-1 tvg-id="gusto-tv" tvg-logo="https://a.jsrdn.com/hls/23062/gusto-tv/poster_20240328_235541.jpg" group-title="Featured",Gusto TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="mtrspt1" tvg-logo="https://a.jsrdn.com/hls/23099/mtrspt1/poster_20250122_232633.jpg" group-title="Featured",MTRSPT1
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="acl-cornhole-tv" tvg-logo="https://a.jsrdn.com/hls/22964/acl-cornhole-tv/poster_20211103_165810.png" group-title="Featured",ACL Cornhole TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/acl-cornhole-tv/aclco.m3u8
+#EXTINF:-1 tvg-id="indiebox" tvg-logo="https://a.jsrdn.com/hls/23195/indiebox/poster_20241210_231747.jpg" group-title="Featured",IndieBox
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/Z96BJ80GR1PEGK44E0SS/hls3/now,-1m/m.m3u8
 #EXTINF:-1 tvg-id="true-history" tvg-logo="https://a.jsrdn.com/hls/23001/true-history/poster_20211006_223707.jpg" group-title="Featured",True History
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/true-history/playlist.m3u8
 #EXTINF:-1 tvg-id="the-reuters-60" tvg-logo="https://a.jsrdn.com/hls/23221/the-reuters-60/poster_20250522_175417.png" group-title="Featured",The Reuters 60
@@ -26,18 +28,20 @@ https://amg00453-amg00453c1-distrotv-us-7691.playouts.now.amagi.tv/playlist/amg0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/craftsytv/playlist.m3u8
 #EXTINF:-1 tvg-id="trace-urban" tvg-logo="https://a.jsrdn.com/hls/23073/trace-urban/poster_20230215_212353.jpg" group-title="Featured",TRACE Urban
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8
-#EXTINF:-1 tvg-id="outside-tv" tvg-logo="https://a.jsrdn.com/hls/22765/outside-tv/poster_20220613_202039.png" group-title="Featured",Outside
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/outsidetv/playlist.m3u8
 #EXTINF:-1 tvg-id="dronetv" tvg-logo="https://a.jsrdn.com/hls/23176/dronetv/poster_20240521_191238.png" group-title="Featured",DroneTV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8
-#EXTINF:-1 tvg-id="cowboy-channel" tvg-logo="https://a.jsrdn.com/hls/23180/cowboy-channel/poster_20250512_172554.jpg" group-title="Featured",Cowboy Channel
-https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-id="billiard-tv" tvg-logo="https://a.jsrdn.com/hls/22964/billiard-tv/poster_20210622_195953.png" group-title="Featured",Billiard TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/billi.m3u8
+#EXTINF:-1 tvg-id="mtrspt1" tvg-logo="https://a.jsrdn.com/hls/23099/mtrspt1/poster_20250122_232633.jpg" group-title="Featured",MTRSPT1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="boxing-tv" tvg-logo="https://a.jsrdn.com/hls/22964/boxing-tv/poster_20220301_212728.png" group-title="Featured",Boxing TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/bxntv.m3u8
 #EXTINF:-1 tvg-id="swerve-combat" tvg-logo="https://a.jsrdn.com/hls/23018/swerve-combat/poster_20240117_191814.jpg" group-title="Featured",Swerve Combat
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/swerve-combat/playlist.m3u8
 #EXTINF:-1 tvg-id="cirque-du-soleil" tvg-logo="https://a.jsrdn.com/hls/23207/cirque-du-soleil/poster_20250403_203930.png" group-title="Featured",Cirque du Soleil
 https://amg01439-amg01439c1-amgplt0081.playout.now3.amagi.tv/playlist/amg01439-amg01439c1-amgplt0081/playlist.m3u8
+#EXTINF:-1 tvg-id="cowboy-channel" tvg-logo="https://a.jsrdn.com/hls/23180/cowboy-channel/poster_20250512_172554.jpg" group-title="Featured",Cowboy Channel
+https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="world-poker-tour" tvg-logo="https://a.jsrdn.com/hls/22893/world-poker-tour/poster_20231219_224337.jpg" group-title="Featured",World Poker Tour
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 #EXTINF:-1 tvg-id="united-fight-alliance-1" tvg-logo="https://a.jsrdn.com/hls/22778/united-fight-alliance-1/poster_20230316_231448.png" group-title="Featured",United Fight Alliance
@@ -66,8 +70,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8
 #EXTINF:-1 tvg-id="schwab-network" tvg-logo="https://a.jsrdn.com/hls/22849/schwab-network/poster_20250603_174716.jpg" group-title="Featured",Schwab Network
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tdameritrade/playlist.m3u8
-#EXTINF:-1 tvg-id="acl-cornhole-tv" tvg-logo="https://a.jsrdn.com/hls/22964/acl-cornhole-tv/poster_20211103_165810.png" group-title="Featured",ACL Cornhole TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/acl-cornhole-tv/aclco.m3u8
 #EXTINF:-1 tvg-id="kaloopy" tvg-logo="https://a.jsrdn.com/hls/22868/kaloopy/poster_20200609_231840.jpg" group-title="Featured",Kaloopy
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
 #EXTINF:-1 tvg-id="real-americas-voice" tvg-logo="https://a.jsrdn.com/hls/22995/real-americas-voice/poster_20210909_185326.jpg" group-title="News & Opinion",Real America's Voice
