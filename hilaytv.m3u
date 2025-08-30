@@ -26,11 +26,14 @@ https://maldivesn.net/hilaytv/ntv
 #EXTINF:-1 tvg-id="SSTV.mv" tvg-name="SSTV" tvg-logo="https://8upload.com/image/67da240232521/12-sstv.png" group-title="Dhivehi",SSTV
 https://sstv.ssplay.mv/hls/sstv-live/index.m3u8
 
-#EXTINF:-1 tvg-id="events1.mv" tvg-name="LIVE EVENTS 1" tvg-logo="https://8upload.com/image/67fea38cdeccb/liveevent1hilay.png" group-title="Events",LIVE EVENTS 1
+#EXTINF:-1 tvg-id="events1.mv" tvg-name="LIVE EVENTS 1" tvg-logo="https://8upload.com/image/67fea38cdeccb/liveevent1hilay.png" group-title="Sports","Events", LIVE EVENTS 1
 https://maldivesn.net/hilaytv/events1
 
-#EXTINF:-1 tvg-id="events2.mv" tvg-name="LIVE EVENTS 2" tvg-logo="https://8upload.com/image/67fea38cd266d/liveevent2hilay.png" group-title="Events",LIVE EVENTS 2
+#EXTINF:-1 tvg-id="events2.mv" tvg-name="LIVE EVENTS 2" tvg-logo="https://8upload.com/image/67fea38cd266d/liveevent2hilay.png" group-title="Sports","Events", LIVE EVENTS 2
 https://maldivesn.net/hilaytv/events2
+
+#EXTINF:-1 tvg-id="bigboss24" tvg-name="24 HRS LIVE CHANNEL" tvg-logo="https://8upload.com/image/68b22c89c22c6/bigboss24hilay.png" group-title="Events",24 HRS LIVE CHANNEL
+https://maldivesn.net/hilaytv/bigbosslive
 
 #EXTINF:-1 tvg-id="Channel13.mv" tvg-name="Channel 13" tvg-logo="https://8upload.com/image/67da24023ddf5/13-chn_13.png" group-title="Dhivehi",Channel 13
 https://maldivesn.net/hilaytv/channel13
