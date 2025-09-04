@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://live-tv.b-cdn.net/logos/channels/0cdnusausanetwork-sv3.png" group-title="FSTV",Ori2Usausanetwork
-https://o4.sundaytueday.online/usa-usanetwork.m3u8
+https://o2.sundaytueday.online/uk-viaplayxtra.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/CBS_Sports_Network_2016.png" group-title="FSTV",Ori2Usacbssport
 https://o4.sundaytueday.online/usa-cbssport.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/CBS_Los_Angeles_logo.svg" group-title="FSTV",Ori2Usacbs Los Angeles
@@ -11,12 +11,12 @@ https://o3.sundaytueday.online/pre22.m3u8
 https://o2.sundaytueday.online/us-espn.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="FSTV",Ori2Usespn2
 https://o2.sundaytueday.online/us-espn2.m3u8
-#EXTINF:-1 tvg-id="ESPN.U.us" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/espn-u-logo.png" group-title="FSTV",ESPNU
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MDg5NTVmYzNlZjA1LWQzNmItYmI1NC0yNmQ3LWYyZDZjNDhi/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/1200px-SEC_Network_logo.svg.png" group-title="FSTV",Ori2Usaespn Sec Network
-https://o4.sundaytueday.online/us-secnetwork.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/2560px-ESPNews.svg.png" group-title="FSTV",Ori2Usespnnews
 https://o2.sundaytueday.online/us-espnnews.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/1200px-SEC_Network_logo.svg.png" group-title="FSTV",Ori2Usaespn Sec Network
+https://o4.sundaytueday.online/us-secnetwork.m3u8
+#EXTINF:-1 tvg-id="ESPN.U.us" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/espn-u-logo.png" group-title="FSTV",ESPNU
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MDg5NTVmYzNlZjA1LWQzNmItYmI1NC0yNmQ3LWYyZDZjNDhi/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/1280px-ESPN_Deportes.svg.png" group-title="FSTV",Ori2Usespndeportes
 https://o2.sundaytueday.online/us-espndeportes.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="FSTV",Ori2Usafs1
@@ -43,12 +43,12 @@ https://o2.sundaytueday.online/uk-tntsport1.m3u8
 https://o2.sundaytueday.online/uk-tntsport2.m3u8
 #EXTINF:-1 tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="FSTV",Ori22Uktntsport3
 https://o2.sundaytueday.online/uk-tntsport3.m3u8
+#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="FSTV",Ori22Uktntsport4
+https://o2.sundaytueday.online/uk-tntsport4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Eurosport_1_HD_Logo_2015.png" group-title="FSTV",Ori23Cdn Ukeurosport1
 https://o2.sundaytueday.online/uk-eurosport1.m3u8
 #EXTINF:-1 tvg-logo="https://assets.tv24.co/channels/bt-sport-extra-1-l.webp" group-title="FSTV",Ori22Uktntsport5
 https://o2.sundaytueday.online/uk-tntsport5.m3u8
-#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="FSTV",Ori22Uktntsport4
-https://o2.sundaytueday.online/uk-tntsport4.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-HD.png" group-title="FSTV",Ori23Cdn Ukeurosport2
 https://o2.sundaytueday.online/uk-eurosport2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_Golf_-_Logo_2018.svg/2560px-Sky_Sport_Golf_-_Logo_2018.svg.png" group-title="FSTV",Ori21Ukskysportgolf
@@ -65,34 +65,34 @@ https://o2.sundaytueday.online/uk-skyplus.m3u8
 https://o4.sundaytueday.online/uk-skysportfootball.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXw53gnUV1zL1tDoAFLmfHNOtpMBx7goFFg&s" group-title="FSTV",Ori21Ukskysportpremierleague
 https://o4.sundaytueday.online/uk-skysportpremierleague.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="FSTV",Ori21Cdnsv3Ukmainent
-https://o4.sundaytueday.online/uk-skysportmain.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/2560px-Sky_Sport_Mix_Logo_2022.svg.png" group-title="FSTV",Ori2 Sky Sport Mix
 https://o4.sundaytueday.online/uk-skysportmix.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="FSTV",Ori21Cdnsv3Ukmainent
+https://o4.sundaytueday.online/uk-skysportmain.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Sky_sports_racing.png" group-title="FSTV",Ori21Cdn Ukskysportracing
 https://o2.sundaytueday.online/uk-skysportracing.m3u8
 #EXTINF:-1 tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/lmstelevision/tv-logos/9ec570fbdc82b613baeaddf1de974395.png" group-title="FSTV",Ori23Ukpremiersport1
 https://o4.sundaytueday.online/uk-premiersport1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBC1z5WtSEusVnMmpXn6bkqH-GLC4UnTvo3Q&s" group-title="FSTV",Ori23Ukpremiersport2
 https://o4.sundaytueday.online/uk-premiersport2.m3u8
-#EXTINF:-1 tvg-logo="https://live-tv.b-cdn.net/logos/channels/ukskysportf1.png" group-title="FSTV",Ori2Ukskysportf1
-https://o2.sundaytueday.online/uk-skysportf1.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-action-uk.svg" group-title="FSTV",Ori21Cdn Ukskysportaction
+https://o2.sundaytueday.online/uk-skysportaction.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Sky-sports-main-arena.jpg" group-title="FSTV",Ori2Sky Sport Arena
 https://o3.sundaytueday.online/uk-skysportarena.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Racing_TV_logo.png" group-title="FSTV",Ori2Ukracingtv
 https://o4.sundaytueday.online/uk-racingtv.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-action-uk.svg" group-title="FSTV",Ori21Cdn Ukskysportaction
-https://o2.sundaytueday.online/uk-skysportaction.m3u8
+#EXTINF:-1 tvg-logo="https://live-tv.b-cdn.net/logos/channels/ukskysportf1.png" group-title="FSTV",Ori2Ukskysportf1
+https://o2.sundaytueday.online/uk-skysportf1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHrp6iuQzLwISQa7S4inz3kY6FUzR-10hBGQ&s" group-title="FSTV",Ori2Ukskysportcricket
 https://o2.sundaytueday.online/uk-skysportcricket.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png" group-title="FSTV",Ori21Ukskysportnews
 https://o4.sundaytueday.online/uk-skysportnews.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsVQ1cCp2JyCeuTWBoSi-Te_YD_29p4ZEUJQ&s" group-title="FSTV",Uksky Sport Darts
 https://o2.sundaytueday.online/uk-skydart.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m1eHN0iyOn0rawZCtwzRqk8Tbf_vd58vYuWeL36EDhbLzd=s900-c-k-c0x00ffffff-no-rj" group-title="FSTV",Ori2Usabeinsport Hd
-https://o4.sundaytueday.online/usa-beinsport.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="FSTV",Ori2Usabeinsport Xtra
 https://o4.sundaytueday.online/us-beinxtra.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m1eHN0iyOn0rawZCtwzRqk8Tbf_vd58vYuWeL36EDhbLzd=s900-c-k-c0x00ffffff-no-rj" group-title="FSTV",Ori2Usabeinsport Hd
+https://o4.sundaytueday.online/usa-beinsport.m3u8
 #EXTINF:-1 tvg-logo="https://media.info/l/o/6/6595.1491352332.png" group-title="FSTV",Ori2Usabeinsport Espanol
 https://o4.sundaytueday.online/usa-beinlaliga.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Logo-bein-sport-xtra-espanol-plain.png" group-title="FSTV",Ori2Usabein Espanol Xtra
@@ -105,10 +105,10 @@ https://o2.sundaytueday.online/uk-itv2.m3u8
 https://o2.sundaytueday.online/uk-itv3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/2560px-ITV4_logo_%282022%29.svg.png" group-title="FSTV",Ori23Ukitv4
 https://o2.sundaytueday.online/uk-itv4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/DAZN_1.svg" group-title="FSTV",Ori2Ukdazn
-https://o4.sundaytueday.online/uk-dazn.m3u8
 #EXTINF:-1 tvg-logo="https://ejnorbs.co.uk/wp-content/uploads/2022/01/1E9C338F-017E-4986-A724-AE08D733A0CF.png" group-title="FSTV",Ori2Cdn Uklfctv
 https://o2.sundaytueday.online/uk-lfctv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/DAZN_1.svg" group-title="FSTV",Ori2Ukdazn
+https://o4.sundaytueday.online/uk-dazn.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/FuboTV_logo.svg" group-title="FSTV",Ori2Usafubosport
 https://o4.sundaytueday.online/usa-fubosport.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ION_Television.png" group-title="FSTV",Ori2Ion Usa
@@ -135,10 +135,10 @@ https://o4.sundaytueday.online/us-foxchanel.m3u8
 https://o4.sundaytueday.online/us-telemundo.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_UniM%C3%A1s.svg" group-title="FSTV",Ori2Usaunimas
 https://o4.sundaytueday.online/uk-unimas.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyoBxNmfDbilv_ElFg5-noVIBgH7Y1OLTFQQ&s" group-title="FSTV",Ori2Uswillowhd
-https://o2.sundaytueday.online/us-willowhd.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/NHL_Network_2007_print.svg" group-title="FSTV",Ori2Cdn Usnhlnetwork
 https://o2.sundaytueday.online/us-nhlnetwork.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyoBxNmfDbilv_ElFg5-noVIBgH7Y1OLTFQQ&s" group-title="FSTV",Ori2Uswillowhd
+https://o2.sundaytueday.online/us-willowhd.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Willow_Xtra_2023_stacked.svg" group-title="FSTV",Ori2Uswillowxtra
 https://o2.sundaytueday.online/us-willowxtra.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/32/1/nba-tv-logo-png_seeklogo-329250.png" group-title="FSTV",Ori2Cdn Usnbatv
@@ -185,16 +185,16 @@ https://o4.sundaytueday.online/us-paramount.m3u8
 https://o4.sundaytueday.online/ca-soccerone.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/DAZN_1_Logo.svg" group-title="FSTV",Ori2De Dazn 1
 https://o3.sundaytueday.online/de-dazn1.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg" group-title="FSTV",Eplskydepre
-https://o4.sundaytueday.online/de-skypremierleagaue.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Sport_Top_Event_Logo_2022.svg/2560px-Sky_Sport_Top_Event_Logo_2022.svg.png" group-title="FSTV",Ori2Deskyde Top Ent
 https://o4.sundaytueday.online/de-skytopevent.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/DAZN_2.svg" group-title="FSTV",Ori2De Dazn 2
 https://o3.sundaytueday.online/de-dazn2.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/sky-sports-news-3-logo.png" group-title="FSTV",Ori2Deskyde News
-https://o4.sundaytueday.online/de-skynews.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg" group-title="FSTV",Eplskydepre
+https://o4.sundaytueday.online/de-skypremierleagaue.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/2560px-Sport-Digital.svg.png" group-title="FSTV",Ori2Desportdigital
 https://o4.sundaytueday.online/de-sportdigital.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/sky-sports-news-3-logo.png" group-title="FSTV",Ori2Deskyde News
+https://o4.sundaytueday.online/de-skynews.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-mix-uk.svg" group-title="FSTV",Ori2Deskyde Mix
 https://o4.sundaytueday.online/de-skymix.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png" group-title="FSTV",Ori2Debundesliga1
@@ -208,7 +208,7 @@ https://o4.sundaytueday.online/ent-cinemax.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="FSTV",Ori2Usahbo
 https://o4.sundaytueday.online/ent-hbo.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/1200px-TBS_2020.svg.png" group-title="FSTV",Ori2Tbs
-https://o4.sundaytueday.online/us-tbs.m3u8
+https://o2.sundaytueday.online/zzz-cty4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="FSTV",Ori2Gol Tv
 https://o4.sundaytueday.online/us-goltv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="FSTV",Ori2Tsn 1
@@ -221,7 +221,7 @@ https://o2.sundaytueday.online/es-tsn3.m3u8
 https://o2.sundaytueday.online/es-tsn4.m3u8
 #EXTINF:-1 tvg-logo="https://product-catalog-storage.s3.ca-central-1.amazonaws.com/channels/logo/TSN_5_HD.png" group-title="FSTV",Ori2Tsn 5
 https://o2.sundaytueday.online/es-tsn5.m3u8
-#EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/media/6928.jpg" group-title="FSTV",Ori2Ptbenfica
-https://o3.sundaytueday.online/pt-benfica.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg" group-title="FSTV",Ori2Ptsporttv 1
 https://o3.sundaytueday.online/pt-sporttv1.m3u8
+#EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/media/6928.jpg" group-title="FSTV",Ori2Ptbenfica
+https://o3.sundaytueday.online/pt-benfica.m3u8
