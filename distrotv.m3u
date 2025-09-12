@@ -2,7 +2,7 @@
 # 🖥️ Developed by: Abu SAEEID X Noob
 # 🔗 GitHub/Telegram: @abusaeeidx
 # 📡 IPTV Telegram Channels: @xfireflixbd
-# 🕒 Last Updated: 2025-09-12 12:18:04 AM (BD Time)
+# 🕒 Last Updated: 2025-09-12 07:06:42 AM (BD Time)
 # 📺 Channels Count : 468
 # 📜 Disclaimer:
 # 🎯 This tool does NOT host any content.
@@ -16,8 +16,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bloomberg-television/bloombergtv.m3u8
 #EXTINF:-1 tvg-id="gusto-tv" tvg-logo="https://a.jsrdn.com/hls/23062/gusto-tv/poster_20240328_235541.jpg" group-title="Featured",Gusto TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="world-poker-tour" tvg-logo="https://a.jsrdn.com/hls/22893/world-poker-tour/poster_20231219_224337.jpg" group-title="Featured",World Poker Tour
-https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+#EXTINF:-1 tvg-id="billiard-tv" tvg-logo="https://a.jsrdn.com/hls/22964/billiard-tv/poster_20210622_195953.png" group-title="Featured",Billiard TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/billi.m3u8
+#EXTINF:-1 tvg-id="law-crime" tvg-logo="https://a.jsrdn.com/hls/22884/law-crime/poster_20240131_212531.jpg" group-title="Featured",Law & Crime
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/law-crime/playlist_scte.m3u8
 #EXTINF:-1 tvg-id="true-history" tvg-logo="https://a.jsrdn.com/hls/23001/true-history/poster_20211006_223707.jpg" group-title="Featured",True History
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/true-history/playlist.m3u8
 #EXTINF:-1 tvg-id="the-reuters-60" tvg-logo="https://a.jsrdn.com/hls/23221/the-reuters-60/poster_20250522_175417.png" group-title="Featured",The Reuters 60
@@ -28,10 +30,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8
 #EXTINF:-1 tvg-id="dronetv" tvg-logo="https://a.jsrdn.com/hls/23176/dronetv/poster_20240521_191238.png" group-title="Featured",DroneTV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8
-#EXTINF:-1 tvg-id="billiard-tv" tvg-logo="https://a.jsrdn.com/hls/22964/billiard-tv/poster_20210622_195953.png" group-title="Featured",Billiard TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/billi.m3u8
 #EXTINF:-1 tvg-id="mtrspt1" tvg-logo="https://a.jsrdn.com/hls/23099/mtrspt1/poster_20250122_232633.jpg" group-title="Featured",MTRSPT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="world-poker-tour" tvg-logo="https://a.jsrdn.com/hls/22893/world-poker-tour/poster_20231219_224337.jpg" group-title="Featured",World Poker Tour
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 #EXTINF:-1 tvg-id="swerve-combat" tvg-logo="https://a.jsrdn.com/hls/23018/swerve-combat/poster_20240117_191814.jpg" group-title="Featured",Swerve Combat
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/swerve-combat/playlist.m3u8
 #EXTINF:-1 tvg-id="boxing-tv" tvg-logo="https://a.jsrdn.com/hls/22964/boxing-tv/poster_20220301_212728.png" group-title="Featured",Boxing TV
@@ -44,8 +46,6 @@ https://amg01439-amg01439c1-amgplt0081.playout.now3.amagi.tv/playlist/amg01439-a
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="united-fight-alliance-1" tvg-logo="https://a.jsrdn.com/hls/22778/united-fight-alliance-1/poster_20230316_231448.png" group-title="Featured",United Fight Alliance
 https://moments.videobyte.com/api/livestreaming.m3u8
-#EXTINF:-1 tvg-id="law-crime" tvg-logo="https://a.jsrdn.com/hls/22884/law-crime/poster_20240131_212531.jpg" group-title="Featured",Law & Crime
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/law-crime/playlist_scte.m3u8
 #EXTINF:-1 tvg-id="la-bocina-latina" tvg-logo="https://a.jsrdn.com/hls/23040/la-bocina-latina/poster_20231109_214008.jpg" group-title="Featured",La Bocina Latina
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8
 #EXTINF:-1 tvg-id="journy" tvg-logo="https://a.jsrdn.com/hls/22944/journy/poster_20220621_221039.jpg" group-title="Featured",Journy
