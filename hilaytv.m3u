@@ -26,11 +26,14 @@ https://maldivesn.net/hilaytv/ntv
 #EXTINF:-1 tvg-id="SSTV.mv" tvg-name="SSTV" tvg-logo="https://8upload.com/image/67da240232521/12-sstv.png" group-title="Dhivehi",SSTV
 https://sstv.ssplay.mv/hls/sstv-live/index.m3u8
 
-#EXTINF:-1 tvg-id="events1.mv" tvg-name="LIVE EVENTS 1" tvg-logo="https://8upload.com/image/67fea38cdeccb/liveevent1hilay.png" group-title="Sports","Events", LIVE EVENTS 1
+#EXTINF:-1 tvg-id="events1.mv" tvg-name="LIVE EVENTS 1" tvg-logo="https://8upload.com/image/67fea38cdeccb/liveevent1hilay.png" group-title="Sports", LIVE EVENTS 1
 https://maldivesn.net/hilaytv/events1
 
-#EXTINF:-1 tvg-id="events2.mv" tvg-name="LIVE EVENTS 2" tvg-logo="https://8upload.com/image/67fea38cd266d/liveevent2hilay.png" group-title="Sports","Events", LIVE EVENTS 2
+#EXTINF:-1 tvg-id="events2.mv" tvg-name="LIVE EVENTS 2" tvg-logo="https://8upload.com/image/67fea38cd266d/liveevent2hilay.png" group-title="Sports", LIVE EVENTS 2
 https://maldivesn.net/hilaytv/events2
+
+#EXTINF:-1 tvg-id="events3.mv" tvg-name="Asia Cup 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Asia_Cup_Logo.png" group-title="Sports", Asia Cup 2025
+https://maldivesn.net/hilaytv/events3
 
 #EXTINF:-1 tvg-id="bigboss24" tvg-name="24 HRS LIVE CHANNEL" tvg-logo="https://8upload.com/image/68b22c89c22c6/bigboss24hilay.png" group-title="Events",24 HRS LIVE CHANNEL
 https://maldivesn.net/hilaytv/bigbosslive
@@ -852,7 +855,7 @@ https://maldivesn.net/hilaytv/clubbingtv
 https://maldivesn.net/hilaytv/v2beattv
 
 #EXTINF:-1 tvg-id="hindihits.mv" tvg-name="Hindi Hits HD" tvg-logo="https://8upload.com/image/687d94a5a534a/hindihitshilay.png" group-title="Music",Hindi Hits HD
-http://146.59.253.52:8080/hindihitshd/index.m3u8
+https://maldivesn.net/hilaytv/hindihits
 
 #EXTINF:-1 tvg-id="kaanphodmusic" tvg-name="Kaan Phod Music" tvg-logo="https://8upload.com/image/688ebd5445e12/kaanphodmusichilay.png" group-title="Music",Kaan Phod Music
 https://maldivesn.net/hilaytv/kaanphodmusic
