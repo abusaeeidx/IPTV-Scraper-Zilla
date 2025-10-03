@@ -5,9 +5,6 @@ https://maldivesn.net/hilaytv/tvm
 #EXTINF:-1 tvg-id="majilistv" tvg-name="Majilis TV" tvg-logo="https://8upload.com/image/686dfede837cd/majlistvhilay.png" group-title="Dhivehi",Majilis TV
 https://www.youtube.com/@PeoplesMajlis/live
 
-#EXTINF:-1 tvg-id="zeeone" tvg-name="Z One" tvg-logo="https://8upload.com/image/68729f0b484f9/zeeonehilay.png" group-title="Entertainment",Z One
-https://maldivesn.net/hilaytv/zeeworld
-
 #EXTINF:-1 tvg-id="malikutv.mv" tvg-name="Maliku TV" tvg-logo="https://8upload.com/image/67e8d998185b5/malikutvhilay.png" group-title="Dhivehi",Maliku TV
 https://maldivesn.net/hilaytv/malikutv
 
@@ -32,14 +29,20 @@ https://maldivesn.net/hilaytv/events1
 #EXTINF:-1 tvg-id="events2.mv" tvg-name="LIVE EVENTS 2" tvg-logo="https://8upload.com/image/67fea38cd266d/liveevent2hilay.png" group-title="Sports", LIVE EVENTS 2
 https://maldivesn.net/hilaytv/events2
 
-#EXTINF:-1 tvg-id="events3.mv" tvg-name="LIVE Now 1" tvg-logo="https://8upload.com/image/68ddf99cbaa75/livehilay.png" group-title="Dhivehi", LIVE NOW 1
-https://maldivesn.net/hilaytv/events3
+#EXTINF:-1 tvg-id="mondhutv" tvg-name="Mondhu TV" tvg-logo="https://8upload.com/image/68df1ddf5e230/mondhutvhilay.png" group-title="Dhivehi", Mondhu TV
+https://maldivesn.net/hilaytv/mondhutv
 
-#EXTINF:-1 tvg-id="events3.mv" tvg-name="LIVE Now 2" tvg-logo="https://8upload.com/image/68ddf99cbaa75/livehilay.png" group-title="Dhivehi", LIVE NOW 2
-https://maldivesn.net/hilaytv/flotilalive
+#EXTINF:-1 tvg-id="events3.mv" tvg-name="Hilay Play 1" tvg-logo="https://8upload.com/image/68df10f7e1640/hilayplay.png" group-title="Dhivehi", Hilay Play 1
+https://maldivesn.net/hilaytv/dhivehiscreen
+
+#EXTINF:-1 tvg-id="events3.mv" tvg-name="Hilay Play 2" tvg-logo="https://8upload.com/image/68df10f7e1640/hilayplay.png" group-title="Dhivehi", Hilay Play 2
+https://maldivesn.net/hilaytv/seturnstudio
 
 #EXTINF:-1 tvg-id="bigboss24" tvg-name="24 HRS LIVE CHANNEL" tvg-logo="https://8upload.com/image/68b22c89c22c6/bigboss24hilay.png" group-title="Events",24 HRS LIVE CHANNEL
 https://maldivesn.net/hilaytv/bigbosslive
+
+#EXTINF:-1 tvg-id="zeeone" tvg-name="Z One" tvg-logo="https://8upload.com/image/68729f0b484f9/zeeonehilay.png" group-title="Entertainment",Z One
+https://maldivesn.net/hilaytv/zeeworld
 
 #EXTINF:-1 tvg-id="Channel13.mv" tvg-name="Channel 13" tvg-logo="https://8upload.com/image/67da24023ddf5/13-chn_13.png" group-title="Dhivehi",Channel 13
 https://maldivesn.net/hilaytv/channel13
