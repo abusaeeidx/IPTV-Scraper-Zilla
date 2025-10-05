@@ -26,8 +26,10 @@ jobs:
           import requests, re, os
           url1 = os.environ["CRICHD1_URL"]
           url2 = os.environ["CRICHD2_URL"]
-          m3u1 = requests.get(url1).text.strip().splitlines()
-          m3u2 = requests.get(url2).text.strip().splitlines()
+          
+          def fetch_m3u(url):
+              return requests.get(url).text.strip().splitlines()
+          
           def change_group_title(lines, title):
               result = []
               for line in lines:
@@ -38,9 +40,11 @@ jobs:
                           line = line.replace(',', f' group-title="{title}",', 1)
                   result.append(line)
               return result
-          m3u1 = change_group_title(m3u1, "CricHD 1")
-          m3u2 = change_group_title(m3u2, "CricHD 2")
+
+          m3u1 = change_group_title(fetch_m3u(url1), "CricHD 1")
+          m3u2 = change_group_title(fetch_m3u(url2), "CricHD 2")
           merged = ["#EXTM3U"] + m3u1[1:] + m3u2[1:]
+          
           with open("CricHD.m3u", "w", encoding="utf-8") as f:
               f.write("\n".join(merged))
         env:
@@ -53,5 +57,12 @@ jobs:
           git config user.name "${{ secrets.GIT_U }}"
           git config user.email "${{ secrets.GIT_E }}"
           git add CricHD.m3u
-          git commit -m "Auto-merge CricHD playlists" || echo "No changes"
-          git push
+          
+          # Check
+          if ! git diff --cached --quiet; then
+            git commit -m "Auto-merge CricHD playlists"
+            git pull --rebase origin main
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
