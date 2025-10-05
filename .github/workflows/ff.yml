@@ -12,8 +12,8 @@ jobs:
       - uses: actions/checkout@v3
       - name: s1
         env:
-          a1: ${{ secrets.s }}
-          b2: ${{ secrets.f }}
+          a1: ${{ secrets.fu }}
+          b2: ${{ secrets.ffn }}
           c3: ${{ secrets.gu }}
           d4: ${{ secrets.ge }}
         run: |
