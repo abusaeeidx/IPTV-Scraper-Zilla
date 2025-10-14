@@ -1,680 +1,782 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/DMOVkUIv9Su7yHsGmjl7gS0iU9qjvz13BSZZfQTVMCAE7mUHbWS3S0-DbFg1HUBt9pD9yjxT=s900-c-k-c0x00ffffff-no-rj" group-title="24/7 CHANNELS",CBS Golazo
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/espn-u-logo.png" group-title="24/7 CHANNELS",ESPNU
 #EXTVLCOPT:http-origin=https://fstv.zip
 #EXTVLCOPT:http-referrer=https://fstv.zip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o3.sundaytotueday.store/pre22.m3u8?auth_key=1760455157-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-d1f5ee770b7263f0a11a74f50e415056
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/CBS_Sports_Network_2016.png" group-title="24/7 CHANNELS",CBS Sports
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/usa-cbssport.m3u8?auth_key=1760455157-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-0f32ce91bdeb09cb79a6acbd977c53ca
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/CBS_Los_Angeles_logo.svg" group-title="24/7 CHANNELS",CBS Los Angeles
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/us-cbslosangeles.m3u8?auth_key=1760455157-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-7f51a6d83ee9fe38a31160680ff9f380
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="24/7 CHANNELS",ESPN2
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/us-espn2.m3u8?auth_key=1760455157-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-6a3cb5cf4e467c4cf8fc24f2f60b0fa3
+https://o2.sundaytotueday.store/us-uespn.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-7812c58658d4a5294ceaca28c300f861
 
 #EXTINF:-1 tvg-logo="https://live-tv.b-cdn.net/logos/channels/0cdnusausanetwork-sv3.png" group-title="24/7 CHANNELS",USA Network
 #EXTVLCOPT:http-origin=https://fstv.zip
 #EXTVLCOPT:http-referrer=https://fstv.zip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/usa-usanetwork.m3u8?auth_key=1760455157-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-487e32c619e1aaa745dc421d6c42cd10
+https://o4.sundaytotueday.store/usa-usanetwork.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-3b9b87dfc7a44d1b704cbbbea268b185
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/inews.zoombangla.com/wp-content/uploads/2025/09/2-471.jpg?resize=788%2C485&ssl=1" group-title="24/7 CHANNELS",NFL RedZone
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/CBS_Sports_Network_2016.png" group-title="24/7 CHANNELS",CBS Sports
 #EXTVLCOPT:http-origin=https://fstv.zip
 #EXTVLCOPT:http-referrer=https://fstv.zip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/us-redzone.m3u8?auth_key=1760455157-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-6797be18029b1c15f2a1ea7463df454a
-
-#EXTINF:-1 tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="24/7 CHANNELS",TNT Sports 3
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/uk-tntsport3.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-e1495cf98c6d425952740f3eb26d4afc
-
-#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="24/7 CHANNELS",TNT Sports 2
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/uk-tntsport2.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-4f4f1a35cff641432b8a5134e02f2331
-
-#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-HD.png" group-title="24/7 CHANNELS",Eurosport 2
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/uk-eurosport2.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-4d68c4f17890625cf2a20bf941ea15bb
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/2560px-ESPNews.svg.png" group-title="24/7 CHANNELS",ESPNNews
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/us-espnnews.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-61075972eb0d527e8c1b70d8751a1850
-
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/espn-u-logo.png" group-title="24/7 CHANNELS",ESPNU
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/us-uespn.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-b57c9aa3bd753e3821dd3116c7dabca2
-
-#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="24/7 CHANNELS",TNT Sports 1
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/uk-tntsport1.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-c55dc02ace7727d419eeff79d85d5bbf
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Eurosport_1_HD_Logo_2015.png" group-title="24/7 CHANNELS",Eurosport 1
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/uk-eurosport1.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-b8a278cf6283396a543cd9985eefe091
-
-#EXTINF:-1 tvg-logo="https://assets.tv24.co/channels/bt-sport-extra-1-l.webp" group-title="24/7 CHANNELS",TNT Sports 5
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/uk-tntsport5.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-aed527b76713522f2ef0728d4e8c1e2a
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="24/7 CHANNELS",MUTV
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/uk-mutv.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-9773e0d089f4ee5bb07983ba6f0fe7bf
-
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/32/1/nba-tv-logo-png_seeklogo-329250.png" group-title="24/7 CHANNELS",NBA TV
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/us-nbatv.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-856a39b9dad784ff3e39cfdb252fc183
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/UNIVERSO_LOGO_color_black.png/1024px-UNIVERSO_LOGO_color_black.png" group-title="24/7 CHANNELS",Universo
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/us-universo.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-900f96449e95d3916d397024bb11db2c
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png" group-title="24/7 CHANNELS",LaLiga TV
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/uk-laligatv.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-122a2dd62109a7a3d8e6fd4a15219fdf
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/1280px-ESPN_Deportes.svg.png" group-title="24/7 CHANNELS",ESPN Deportes
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/us-espndeportes.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-f9acd567261c0604ae361bd70fa1f4da
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="24/7 CHANNELS",Golf Channel
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/us-golf.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-3e56e785fcee1115d69ea5a4e8e5c078
-
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png" group-title="24/7 CHANNELS",Tennis Channel 2
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/us-tennistv2.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-55ac0942c5fa86c8a27891d5249a14f7
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MSNBC_2015-2021_logo.svg/2560px-MSNBC_2015-2021_logo.svg.png" group-title="24/7 CHANNELS",MSNBC
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/us-msn.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-0655cddab84c2854217c28af41f46980
-
-#EXTINF:-1 tvg-logo="https://live-tv.b-cdn.net/icons/sports/image_(5).png" group-title="24/7 CHANNELS",Sky Sports Plus
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/uk-skyplus.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-eb77a4cbae44579a267e74f871f31084
+https://o4.sundaytotueday.store/usa-cbssport.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-4fd50e172b9a6fe28cec0a3656a2de3f
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="24/7 CHANNELS",ESPN
 #EXTVLCOPT:http-origin=https://fstv.zip
 #EXTVLCOPT:http-referrer=https://fstv.zip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/us-espn.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-7c86e3c36202b92763a3acb86e5d220e
+https://o2.sundaytotueday.store/us-espn.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-393778d6e4afa5b7ffd6f5b81ffd2d89
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/1200px-SEC_Network_logo.svg.png" group-title="24/7 CHANNELS",SEC Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="24/7 CHANNELS",ESPN2
 #EXTVLCOPT:http-origin=https://fstv.zip
 #EXTVLCOPT:http-referrer=https://fstv.zip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/us-secnetwork.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-58d9ce48303bbe1bdffdae910a725f8b
+https://o2.sundaytotueday.store/us-espn2.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-c6a1d82341551087edc2e1109525216b
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png" group-title="24/7 CHANNELS",Sky Sports News
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/DMOVkUIv9Su7yHsGmjl7gS0iU9qjvz13BSZZfQTVMCAE7mUHbWS3S0-DbFg1HUBt9pD9yjxT=s900-c-k-c0x00ffffff-no-rj" group-title="24/7 CHANNELS",CBS Golazo
 #EXTVLCOPT:http-origin=https://fstv.zip
 #EXTVLCOPT:http-referrer=https://fstv.zip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/uk-skysportnews.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-cb6339da8b289c6d7665e27d0c5992d1
+https://o3.sundaytotueday.store/pre22.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-235216072bd887cc395138a5b8f2a591
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXw53gnUV1zL1tDoAFLmfHNOtpMBx7goFFg&s" group-title="24/7 CHANNELS",Sky Sports Premier League
+#EXTINF:-1 tvg-logo="https://i0.wp.com/inews.zoombangla.com/wp-content/uploads/2025/09/2-471.jpg?resize=788%2C485&ssl=1" group-title="24/7 CHANNELS",NFL RedZone
 #EXTVLCOPT:http-origin=https://fstv.zip
 #EXTVLCOPT:http-referrer=https://fstv.zip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/uk-skysportpremierleague.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-6f04bd3b268677a99ed72daa929f828f
+https://o2.sundaytotueday.store/us-redzone.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-163f93693e7cd3056f0ad53f95721fd7
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-action-uk.svg" group-title="24/7 CHANNELS",Sky Sports Action
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/CBS_Los_Angeles_logo.svg" group-title="24/7 CHANNELS",CBS Los Angeles
 #EXTVLCOPT:http-origin=https://fstv.zip
 #EXTVLCOPT:http-referrer=https://fstv.zip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/uk-skysportaction.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-69ce4cbd275f536eb78a78b7f1bb47ad
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="24/7 CHANNELS",Telemundo
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/us-telemundo.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-a2906dbc2d0c3a4229724a041350de9c
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/ITV3_logo_2022.svg/1024px-ITV3_logo_2022.svg.png" group-title="24/7 CHANNELS",ITV3
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/uk-itv3.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-7e0b2d5033c1b3b6bb03a2f64c0bfd92
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHrp6iuQzLwISQa7S4inz3kY6FUzR-10hBGQ&s" group-title="24/7 CHANNELS",Sky Sports Cricket
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/uk-skysportcricket.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-af01e820e00415a914e2abd29b1bf337
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsVQ1cCp2JyCeuTWBoSi-Te_YD_29p4ZEUJQ&s" group-title="24/7 CHANNELS",Sky Sports Darts
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/uk-skydart.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-13f2a9757df809fa97705e12c989fd87
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="24/7 CHANNELS",TUDN
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/usa-tudn.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-f17c61a463fea81ae690ae099e7d0dfb
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Fox_Channel_logo.svg" group-title="24/7 CHANNELS",Fox Channel
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/us-foxchanel.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-3711255723770c7e8332c9a303aa85b3
-
-#EXTINF:-1 tvg-logo="https://www.sec.gov/Archives/edgar/data/1564708/000156470822000051/image_151a.jpg" group-title="24/7 CHANNELS",Fox Sports 2
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o3.sundaytotueday.store/pre31.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-1d479be18243f34729c6924c29068ae8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/OneSoccer_logo.svg" group-title="24/7 CHANNELS",OneSoccer
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/ca-soccerone.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-90fa735728c9271cdd74400dba1fa4ee
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/DAZN_2.svg" group-title="24/7 CHANNELS",DAZN 2
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o3.sundaytotueday.store/de-dazn2.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-f3b30bda511d805594ddeb6c6d371743
-
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/yrrvpq1433380019.png" group-title="24/7 CHANNELS",TSN 4
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/es-tsn4.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-59caf46c058059e12da23cd41d0ca17b
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="24/7 CHANNELS",Tennis Channel
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/us-tennistv.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-cf0c903c142d6a08fff1446884468f3a
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png" group-title="24/7 CHANNELS",NBC
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/us-nbc.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-b5df1111c3824318bbb09efc3c3eed8b
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg" group-title="24/7 CHANNELS",Sport TV 1
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o3.sundaytotueday.store/pt-sporttv1.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-6817ef50601e1c9b320c9b766058db31
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sky_Sport_Tennis_HD.svg/2560px-Sky_Sport_Tennis_HD.svg.png" group-title="24/7 CHANNELS",Sky Sports Tennis
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/uk-skysporttenis.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-26a16bb7cda353be24c7da95822c1ff8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m1eHN0iyOn0rawZCtwzRqk8Tbf_vd58vYuWeL36EDhbLzd=s900-c-k-c0x00ffffff-no-rj" group-title="24/7 CHANNELS",beIN Sports HD
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/usa-beinsport.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-ce2ebec638d7067efeb51286d3417b31
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg" group-title="24/7 CHANNELS",TyC Sports
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/usa-tycsport.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-539ad3fd3dabe40291dece73451dc301
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="24/7 CHANNELS",beIN Sports Xtra
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/us-beinxtra.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-cf81dc2cf3f66482afcd30dc71e4906e
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyoBxNmfDbilv_ElFg5-noVIBgH7Y1OLTFQQ&s" group-title="24/7 CHANNELS",Willow
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/us-willowhd.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-ef59c69a308c6f65000c0c817e1174e0
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="24/7 CHANNELS",Fox News
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/us-foxnews.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-de6b279c992e60c519529e76851ca18b
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="24/7 CHANNELS",HBO
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/ent-hbo.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-4738bc4a2be4e86e58b12f2ae8b2561a
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="24/7 CHANNELS",GOL TV
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/us-goltv.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-5afe92bf30ac7a797689405faf8b19e1
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/DAZN_1_Logo.svg" group-title="24/7 CHANNELS",DAZN 1
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o3.sundaytotueday.store/de-dazn1.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-83a708ca334efc4e4f57af486a59b6ad
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/2560px-FS2_logo_2015.svg.png" group-title="24/7 CHANNELS",Fox Sports 2
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/usa-fs2.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-0b5134ae3c13206b934c376fba5ceb40
-
-#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="24/7 CHANNELS",TNT Sports 4
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/uk-tntsport4.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-d119e4ecfa9a66211ead26765998ff09
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_Golf_-_Logo_2018.svg/2560px-Sky_Sport_Golf_-_Logo_2018.svg.png" group-title="24/7 CHANNELS",Sky Sports Golf
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/uk-skysportgolf.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-6874715a7ae2f5f685d98d9d4c017eaf
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Racing_TV_logo.png" group-title="24/7 CHANNELS",Racing TV
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/uk-racingtv.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-721e7df5164fa978cddf71854657d2b8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShBAuTfA1DhscWW7O3ANKzLlFXAcEgz4aQOA&s" group-title="24/7 CHANNELS",Marquee Sports Network
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/us-marquee.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-283017ee68e6592e53c0626ec1c0dbd2
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Big_Ten_Network_Logo.svg" group-title="24/7 CHANNELS",Big Ten Network
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/us-bignetwork.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-bd97608e70cea2629c417f0bf750c43c
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Logo-bein-sport-xtra-espanol-plain.png" group-title="24/7 CHANNELS",beIN Sports Xtra Español
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/us-beinespamolxtra.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-5435a969fdd1087bd72b1f7c6eb44746
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/2048px-CNN_International_logo.svg.png" group-title="24/7 CHANNELS",CNN
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/us-cnn.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-5684c4030f129d0bbf0313593702d003
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/ACC_Network_Raycom_Logo.png" group-title="24/7 CHANNELS",ACC Network
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/us-accnetwork.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-f269479cd43f41bb59698656dd5e6085
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/1200px-WNBC_4_NY.svg.png" group-title="24/7 CHANNELS",NBC New York
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/uk-viaplayxtra.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-7fb50abe24ded49313689c6421c68d2b
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="24/7 CHANNELS",Sky Sports Football
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/uk-skysportfootball.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-4bb406344abe34620925e587cbc01620
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Sky_sports_racing.png" group-title="24/7 CHANNELS",Sky Sports Racing
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/uk-skysportracing.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-b25f4e7d41e14802f15a49827c88725e
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="24/7 CHANNELS",MLB Network
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/us-mlbnetwork.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-3be56dfd438239b54b539898cc29a40c
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/TruTV_2014.svg" group-title="24/7 CHANNELS",truTV
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o3.sundaytotueday.store/pre52.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-c1fb2300788dbde9da6b594a92dc049a
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1200px-ITV1_logo_%282022%29.svg.png" group-title="24/7 CHANNELS",ITV1
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/uk-itv1.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-8182f406213db3903a9a7b8967154330
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/1200px-WABC_TV_New_2021.svg.png" group-title="24/7 CHANNELS",ABC
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/us-abc.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-f01de8e47d0177d4bfaa2d02983fb804
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/2560px-Sky_Sport_Mix_Logo_2022.svg.png" group-title="24/7 CHANNELS",Sky Sports Mix
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/uk-skysportmix.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-5828a31766172bb119d24da7f234909e
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="24/7 CHANNELS",Fox Sports 1
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/usa-fs1.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-c5b560c859b0d61c5ef5b99782c9df7a
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png" group-title="24/7 CHANNELS",CNBC
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/us-cnbc.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-403e994dbfa39aaacf0ece42bf5027ad
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/TFN_logo.svg" group-title="24/7 CHANNELS",Fight Network
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/us-fightnetwork.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-8c7039cab69f2cec6b7f59ebecd1b668
-
-#EXTINF:-1 tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/lmstelevision/tv-logos/9ec570fbdc82b613baeaddf1de974395.png" group-title="24/7 CHANNELS",Premier Sports 1
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/uk-premiersport1.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-faf55b8c73ceab20362bd8a5167294ac
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="24/7 CHANNELS",Sky Sports Main Event
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/uk-skysportmain.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-1e3c3c02b3185b061ba90a928312a4f4
-
-#EXTINF:-1 tvg-logo="https://media.info/l/o/6/6595.1491352332.png" group-title="24/7 CHANNELS",beIN Sports Español
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/usa-beinlaliga.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-25f29c9e3acf77cbadc3edb885fa228a
-
-#EXTINF:-1 tvg-logo="https://archive.org/download/BbcOneWales_201708/bbc%20one%20wales.png" group-title="24/7 CHANNELS",BBC One
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/uk-bbcone.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-09a17925a44704b8b65409afe0f7a178
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBC1z5WtSEusVnMmpXn6bkqH-GLC4UnTvo3Q&s" group-title="24/7 CHANNELS",Premier Sports 2
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/uk-premiersport2.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-cca4bac5ffbd3e97cfa708c7654aaf1b
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/2560px-ITV4_logo_%282022%29.svg.png" group-title="24/7 CHANNELS",ITV4
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/uk-itv4.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-ded8bbb8b32dc1770e491b2d6b1c517a
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg" group-title="24/7 CHANNELS",Sky Sport Premier League (DE)
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/de-skypremierleagaue.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-e0464feb2f137f00a02b6361a90f89c9
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzVKhyyLjhKAjizJqs8N8jg7mH7bHWVXwUUg&s" group-title="24/7 CHANNELS",YES Network
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/us-yes.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-53c92dab33ab0a0499a8b2e8139371ed
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/W_Network_2002_3D.svg" group-title="24/7 CHANNELS",W Network
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/us-wnetwork.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-62a958c72e177ebc78b5cf6dbda0b2e8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/FanDuel_Sports_Network_logo.svg" group-title="24/7 CHANNELS",FanDuel TV
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o3.sundaytotueday.store/pre32.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-1c000c2b06616cfd926b0399407a43fb
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Sky-sports-main-arena.jpg" group-title="24/7 CHANNELS",Sky Sports Arena
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o3.sundaytotueday.store/uk-skysportarena.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-57e1ab7464eaad97c27f971d408b573b
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Axs-tv-button-logo-blue.png" group-title="24/7 CHANNELS",AXS TV
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o3.sundaytotueday.store/pre51.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-466f615944d4052d43011b288da31de0
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/FuboTV_logo.svg" group-title="24/7 CHANNELS",Fubo Sports Network
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/usa-fubosport.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-a221c8165700d16258233c96a71fc00e
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ION_Television.png" group-title="24/7 CHANNELS",Ion Television
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/us-ion.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-01af77528a5707732776228fc1f335a5
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/800px-Fox_Soccer_Plus_logo.svg.png" group-title="24/7 CHANNELS",Fox Soccer Plus
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/usa-foxsoccerplus.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-5151fb94ec203669bd26206738453c68
-
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/sky-sports-news-3-logo.png" group-title="24/7 CHANNELS",Sky Sport News (DE)
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/de-skynews.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-87c6c48cdd366e439b85110c3c363733
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png" group-title="24/7 CHANNELS",Sky Sport Bundesliga 1
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o3.sundaytotueday.store/de-bundesliga1.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-9ef9ab2293302f183d52c0e3bdaf9dc8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="24/7 CHANNELS",Cinemax
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/ent-cinemax.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-d69337db6f1dd76ac413eade8a1b8651
-
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sutruq1433379787.png" group-title="24/7 CHANNELS",TSN 2
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/es-tsn2.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-37dd5504e39223cead1c5ca05d931c3c
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="24/7 CHANNELS",TSN 1
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/es-tsn1.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-ede85d5b574e1e300a8596fd35e6fb22
+https://o4.sundaytotueday.store/us-cbslosangeles.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-219f204593c5414e1a98e391bf8abe62
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="24/7 CHANNELS",NFL Network
 #EXTVLCOPT:http-origin=https://fstv.zip
 #EXTVLCOPT:http-referrer=https://fstv.zip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/us-nfl.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-4a2f3c15b3169f2620ff6b9982c42b05
+https://o2.sundaytotueday.store/us-nfl.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-baeea2629cd421d2d13cda312f5c1b56
 
-#EXTINF:-1 tvg-logo="https://live-tv.b-cdn.net/logos/channels/ukskysportf1.png" group-title="24/7 CHANNELS",Sky Sports F1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/UNIVERSO_LOGO_color_black.png/1024px-UNIVERSO_LOGO_color_black.png" group-title="24/7 CHANNELS",Universo
 #EXTVLCOPT:http-origin=https://fstv.zip
 #EXTVLCOPT:http-referrer=https://fstv.zip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/uk-skysportf1.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-91b318fa1dfdca6ec639f10c775058a1
+https://o4.sundaytotueday.store/us-universo.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-b3ff82a7c5ec98a618560d1d64211b2c
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="24/7 CHANNELS",TNT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/2560px-FS2_logo_2015.svg.png" group-title="24/7 CHANNELS",Fox Sports 2
 #EXTVLCOPT:http-origin=https://fstv.zip
 #EXTVLCOPT:http-referrer=https://fstv.zip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/us-tnt.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-08b512f46be06f33e1a9d93148a66eb2
+https://o2.sundaytotueday.store/usa-fs2.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-f4ca70903f4b3e12228175de6d6d5f7a
 
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/hbo-2.svg" group-title="24/7 CHANNELS",HBO 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="24/7 CHANNELS",Fox Sports 1
 #EXTVLCOPT:http-origin=https://fstv.zip
 #EXTVLCOPT:http-referrer=https://fstv.zip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/ent-greatmovie.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-a29345c9bc746c5b5adb519d2fad2749
+https://o2.sundaytotueday.store/usa-fs1.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-d6a11033b93e4aae39adbecc63220f2d
 
-#EXTINF:-1 tvg-logo="https://ejnorbs.co.uk/wp-content/uploads/2022/01/1E9C338F-017E-4986-A724-AE08D733A0CF.png" group-title="24/7 CHANNELS",LFCTV
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m1eHN0iyOn0rawZCtwzRqk8Tbf_vd58vYuWeL36EDhbLzd=s900-c-k-c0x00ffffff-no-rj" group-title="24/7 CHANNELS",beIN Sports HD
 #EXTVLCOPT:http-origin=https://fstv.zip
 #EXTVLCOPT:http-referrer=https://fstv.zip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/uk-lfctv.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-76e1d54f321a0c37d713995c9f4393ab
+https://o4.sundaytotueday.store/usa-beinsport.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-09bcba8cbfe8990aba91cd4268d03afe
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/BBC_Two_logo.png" group-title="24/7 CHANNELS",BBC Two
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/FuboTV_logo.svg" group-title="24/7 CHANNELS",Fubo Sports Network
 #EXTVLCOPT:http-origin=https://fstv.zip
 #EXTVLCOPT:http-referrer=https://fstv.zip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/uk-bbctwo.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-70eee80a90c8c70712d7c0b5c5086839
+https://o4.sundaytotueday.store/usa-fubosport.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-03c118a3b1b4a9ba92061461ed81e9b2
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/NHL_Network_2007_print.svg" group-title="24/7 CHANNELS",NHL Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/2560px-ESPNews.svg.png" group-title="24/7 CHANNELS",ESPNNews
 #EXTVLCOPT:http-origin=https://fstv.zip
 #EXTVLCOPT:http-referrer=https://fstv.zip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/us-nhlnetwork.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-15a9555cf7793ede61c966cf682fc3e7
+https://o2.sundaytotueday.store/us-espnnews.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-c34ea4d5bbe9a5f439a5dd32af25c4da
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Sport_Top_Event_Logo_2022.svg/2560px-Sky_Sport_Top_Event_Logo_2022.svg.png" group-title="24/7 CHANNELS",Sky Sport Top Event
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/1200px-WNBC_4_NY.svg.png" group-title="24/7 CHANNELS",NBC New York
 #EXTVLCOPT:http-origin=https://fstv.zip
 #EXTVLCOPT:http-referrer=https://fstv.zip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/de-skytopevent.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-83948e14e30e9816f5014001f52a5f38
+https://o2.sundaytotueday.store/uk-viaplayxtra.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-9510af2e51f5adca54e8a3371c418d63
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/2560px-Sport-Digital.svg.png" group-title="24/7 CHANNELS",Sportdigital Fussball
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/DAZN_1_Logo.svg" group-title="24/7 CHANNELS",DAZN 1
 #EXTVLCOPT:http-origin=https://fstv.zip
 #EXTVLCOPT:http-referrer=https://fstv.zip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/de-sportdigital.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-176953691388b1d34677c9e67bb01f1c
+https://o3.sundaytotueday.store/de-dazn1.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-d27b07da0bc3ca20aa5379d5e2519f32
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/2560px-BBC_News_2022_%28Alt%29.svg.png" group-title="24/7 CHANNELS",BBC News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/OneSoccer_logo.svg" group-title="24/7 CHANNELS",OneSoccer
 #EXTVLCOPT:http-origin=https://fstv.zip
 #EXTVLCOPT:http-referrer=https://fstv.zip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/uk-bbcnews.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-714339366402729433f29d9c90b6c023
+https://o4.sundaytotueday.store/ca-soccerone.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-00a2467e8e86990e13b43e0dee1eb0a0
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-mix-uk.svg" group-title="24/7 CHANNELS",Sky Sport Mix (DE)
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/sky-sports-news-3-logo.png" group-title="24/7 CHANNELS",Sky Sport News (DE)
 #EXTVLCOPT:http-origin=https://fstv.zip
 #EXTVLCOPT:http-referrer=https://fstv.zip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/de-skymix.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-cacbf0f30fbfc4ba8539d6883faad0f3
+https://o4.sundaytotueday.store/de-skynews.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-a5d1f7828928c58957fae93ed045f348
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/1200px-TBS_2020.svg.png" group-title="24/7 CHANNELS",TBS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Eurosport_1_HD_Logo_2015.png" group-title="24/7 CHANNELS",Eurosport 1
 #EXTVLCOPT:http-origin=https://fstv.zip
 #EXTVLCOPT:http-referrer=https://fstv.zip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/zzz-cty4.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-126017fab1f167d5cb0ba05bfb2d620e
+https://o2.sundaytotueday.store/uk-eurosport1.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-90bda91724aa3a755d87a42173f5116a
 
-#EXTINF:-1 tvg-logo="https://apsiscom.com/images/channels/935.webp" group-title="24/7 CHANNELS",TSN 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/1200px-SEC_Network_logo.svg.png" group-title="24/7 CHANNELS",SEC Network
 #EXTVLCOPT:http-origin=https://fstv.zip
 #EXTVLCOPT:http-referrer=https://fstv.zip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/es-tsn3.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-8f72e17f16d30275d4f97cad0651109f
+https://o4.sundaytotueday.store/us-secnetwork.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-4407b533fa79a5cae710c36cf04e754a
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_UniM%C3%A1s.svg" group-title="24/7 CHANNELS",UniMás
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="24/7 CHANNELS",Tennis Channel
 #EXTVLCOPT:http-origin=https://fstv.zip
 #EXTVLCOPT:http-referrer=https://fstv.zip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/uk-unimas.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-f89dd29eabd50676643f33022fcd4f64
+https://o2.sundaytotueday.store/us-tennistv.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-e01cb6dcc47fa6d9c5368c31ff132ffb
 
-#EXTINF:-1 tvg-logo="https://product-catalog-storage.s3.ca-central-1.amazonaws.com/channels/logo/TSN_5_HD.png" group-title="24/7 CHANNELS",TSN 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="24/7 CHANNELS",Golf Channel
 #EXTVLCOPT:http-origin=https://fstv.zip
 #EXTVLCOPT:http-referrer=https://fstv.zip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/es-tsn5.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-2e30236a817d087c425c352556d7e027
+https://o2.sundaytotueday.store/us-golf.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-cce5743a988ebf5c2923d5a22529b131
 
-#EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/media/6928.jpg" group-title="24/7 CHANNELS",Benfica TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png" group-title="24/7 CHANNELS",LaLiga TV
 #EXTVLCOPT:http-origin=https://fstv.zip
 #EXTVLCOPT:http-referrer=https://fstv.zip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o3.sundaytotueday.store/pt-benfica.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-2bd71bed5b3705db17e89fa88e9b6cbb
+https://o4.sundaytotueday.store/uk-laligatv.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-d3a9683230f827451781abed76d791d5
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/ITV2_Logo_2013.svg/2560px-ITV2_Logo_2013.svg.png" group-title="24/7 CHANNELS",ITV2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MSNBC_2015-2021_logo.svg/2560px-MSNBC_2015-2021_logo.svg.png" group-title="24/7 CHANNELS",MSNBC
 #EXTVLCOPT:http-origin=https://fstv.zip
 #EXTVLCOPT:http-referrer=https://fstv.zip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/uk-itv2.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-42425e63653dbe9333a017d98c58fbbd
+https://o2.sundaytotueday.store/us-msn.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-bd0ff9066f5a913cff18918297de4fda
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Willow_Xtra_2023_stacked.svg" group-title="24/7 CHANNELS",Willow Xtra
+#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="24/7 CHANNELS",TNT Sports 2
 #EXTVLCOPT:http-origin=https://fstv.zip
 #EXTVLCOPT:http-referrer=https://fstv.zip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/us-willowxtra.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-9f6e4538e0246bcc96feb9c01d23ae8b
+https://o4.sundaytotueday.store/uk-tntsport2.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-3395f15048d49a195db55f8d411c06b6
+
+#EXTINF:-1 tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/lmstelevision/tv-logos/9ec570fbdc82b613baeaddf1de974395.png" group-title="24/7 CHANNELS",Premier Sports 1
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/uk-premiersport1.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-99342f1b3b695686397e936fb8959229
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/TruTV_2014.svg" group-title="24/7 CHANNELS",truTV
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o3.sundaytotueday.store/pre52.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-d790bab6ef9af522d011976a848e1b40
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHrp6iuQzLwISQa7S4inz3kY6FUzR-10hBGQ&s" group-title="24/7 CHANNELS",Sky Sports Cricket
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/uk-skysportcricket.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-15adfc4b9141d976e8a4660a5065ed5a
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/TFN_logo.svg" group-title="24/7 CHANNELS",Fight Network
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/us-fightnetwork.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-0419f7a41423eabab85b2451cdc55c67
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/800px-Fox_Soccer_Plus_logo.svg.png" group-title="24/7 CHANNELS",Fox Soccer Plus
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/usa-foxsoccerplus.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-a9a14f2e96f5fc07a2333325e089c001
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/World_Fishing_Network_OD.svg" group-title="24/7 CHANNELS",World Fishing Network
 #EXTVLCOPT:http-origin=https://fstv.zip
 #EXTVLCOPT:http-referrer=https://fstv.zip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/us-wfn.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-25a9044f0a0205e3eace9ae0e9e730f9
+https://o2.sundaytotueday.store/us-wfn.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-849e051a5e2ce56bc0d436d254a9e535
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/1280px-ESPN_Deportes.svg.png" group-title="24/7 CHANNELS",ESPN Deportes
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/us-espndeportes.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-ed0d63a01157261ec4ff80e1122fe275
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png" group-title="24/7 CHANNELS",CNBC
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/us-cnbc.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-1e5d2f39640dfc2f3229b734e6c778fb
+
+#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="24/7 CHANNELS",TNT Sports 4
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/uk-tntsport4.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-12f1e608cefd0e99d9192cacddfbe855
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="24/7 CHANNELS",Sky Sports Football
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/uk-skysportfootball.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-eafc5a3e86f507d7d3d27fd01287b3e9
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_Golf_-_Logo_2018.svg/2560px-Sky_Sport_Golf_-_Logo_2018.svg.png" group-title="24/7 CHANNELS",Sky Sports Golf
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/uk-skysportgolf.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-8a3dc9a78f48c57b25141b196d3ccaac
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-action-uk.svg" group-title="24/7 CHANNELS",Sky Sports Action
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/uk-skysportaction.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-1121bf0657fb19a1355a3b6edcd0bca1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="24/7 CHANNELS",beIN Sports Xtra
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/us-beinxtra.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-f7da5bab432127d50da8d984655b5a02
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg" group-title="24/7 CHANNELS",TyC Sports
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/usa-tycsport.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-5afcb9303d749c27328dfc1fc54949d6
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Logo-bein-sport-xtra-espanol-plain.png" group-title="24/7 CHANNELS",beIN Sports Xtra Español
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/us-beinespamolxtra.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-7211b817903c233bf1770aba253f3d83
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Sky-sports-main-arena.jpg" group-title="24/7 CHANNELS",Sky Sports Arena
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o3.sundaytotueday.store/uk-skysportarena.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-70e622cb996c6ccb1885515716e932cc
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png" group-title="24/7 CHANNELS",Sky Sports News
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/uk-skysportnews.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-bbdb2e98993248387e181604bf6e5df3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ION_Television.png" group-title="24/7 CHANNELS",Ion Television
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/us-ion.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-9b02eeb42ed6b7431c7b1ca14a3bc238
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/ITV3_logo_2022.svg/1024px-ITV3_logo_2022.svg.png" group-title="24/7 CHANNELS",ITV3
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/uk-itv3.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-a841e98ccd6bf789fcf65283cc7cd2ab
+
+#EXTINF:-1 tvg-logo="https://ejnorbs.co.uk/wp-content/uploads/2022/01/1E9C338F-017E-4986-A724-AE08D733A0CF.png" group-title="24/7 CHANNELS",LFCTV
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/uk-lfctv.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-92b3ac7adddf2c200f2a5ada3d608988
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="24/7 CHANNELS",Telemundo
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/us-telemundo.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-a1b52f546880b9b6c7ff09160898cb33
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsVQ1cCp2JyCeuTWBoSi-Te_YD_29p4ZEUJQ&s" group-title="24/7 CHANNELS",Sky Sports Darts
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/uk-skydart.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-4be308127fa645effd952677c56d4b63
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sky_Sport_Tennis_HD.svg/2560px-Sky_Sport_Tennis_HD.svg.png" group-title="24/7 CHANNELS",Sky Sports Tennis
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/uk-skysporttenis.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-60632cae0c65451e4d3b7a72c0778c1a
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Axs-tv-button-logo-blue.png" group-title="24/7 CHANNELS",AXS TV
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o3.sundaytotueday.store/pre51.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-ef42bda015610db165684bbed53d83bc
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Sport_Top_Event_Logo_2022.svg/2560px-Sky_Sport_Top_Event_Logo_2022.svg.png" group-title="24/7 CHANNELS",Sky Sport Top Event
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/de-skytopevent.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-548dcfdff59d04c9816b44c3c2e47d8c
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="24/7 CHANNELS",Fox Deportes
 #EXTVLCOPT:http-origin=https://fstv.zip
 #EXTVLCOPT:http-referrer=https://fstv.zip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/us-foxdeportes.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-d1093205b70c43a8de74efd094e8cb93
+https://o2.sundaytotueday.store/us-foxdeportes.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-e92ed665ee38e2636e1ec94ae4a1fe68
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png" group-title="24/7 CHANNELS",NBC
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/us-nbc.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-cb4cee548b8fabf38a2902738052f90e
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/BBC_Two_logo.png" group-title="24/7 CHANNELS",BBC Two
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/uk-bbctwo.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-0df33594b4cd5ac820ddea69ebd24e98
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBC1z5WtSEusVnMmpXn6bkqH-GLC4UnTvo3Q&s" group-title="24/7 CHANNELS",Premier Sports 2
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/uk-premiersport2.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-e184b202179841782d3838f418c98a22
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="24/7 CHANNELS",MUTV
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/uk-mutv.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-0e98add88572d57cc4d209901cbd3770
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/2560px-Sky_Sport_Mix_Logo_2022.svg.png" group-title="24/7 CHANNELS",Sky Sports Mix
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/uk-skysportmix.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-f19091b181828b752bd4db05adc080aa
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Sky_sports_racing.png" group-title="24/7 CHANNELS",Sky Sports Racing
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/uk-skysportracing.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-b99b8b2c8b5f9e4f479e783f85553a57
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Big_Ten_Network_Logo.svg" group-title="24/7 CHANNELS",Big Ten Network
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/us-bignetwork.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-5b168a60f67e6106f68064d7336404ab
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzVKhyyLjhKAjizJqs8N8jg7mH7bHWVXwUUg&s" group-title="24/7 CHANNELS",YES Network
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/us-yes.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-43910571d458e7f5a526eb0d614741a3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Racing_TV_logo.png" group-title="24/7 CHANNELS",Racing TV
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/uk-racingtv.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-156a1c2b6745ac7e5499e2c95d9e9007
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShBAuTfA1DhscWW7O3ANKzLlFXAcEgz4aQOA&s" group-title="24/7 CHANNELS",Marquee Sports Network
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/us-marquee.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-50787efd21a43fbba96cb6109c508cf2
+
+#EXTINF:-1 tvg-logo="https://live-tv.b-cdn.net/logos/channels/ukskysportf1.png" group-title="24/7 CHANNELS",Sky Sports F1
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/uk-skysportf1.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-c6d80bff4b1a4bf5fe95cd99ff10be86
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Fox_Channel_logo.svg" group-title="24/7 CHANNELS",Fox Channel
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/us-foxchanel.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-3aa148e5bc506a26959993daaa4219de
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Willow_Xtra_2023_stacked.svg" group-title="24/7 CHANNELS",Willow Xtra
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/us-willowxtra.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-3a17db4f736ccfc90a220e22dbfa1fde
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="24/7 CHANNELS",Fox News
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/us-foxnews.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-2c9d695e6185064de2334b5bd7300ec0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png" group-title="24/7 CHANNELS",Sky Sport Bundesliga 1
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o3.sundaytotueday.store/de-bundesliga1.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-87a1634b0ca21e6640994182d037fd52
+
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-HD.png" group-title="24/7 CHANNELS",Eurosport 2
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/uk-eurosport2.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-0e3c3d288c52810a1856614d66ccdf04
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyoBxNmfDbilv_ElFg5-noVIBgH7Y1OLTFQQ&s" group-title="24/7 CHANNELS",Willow
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/us-willowhd.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-57d13e3ef19c157346f03543e66c6e8e
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-mix-uk.svg" group-title="24/7 CHANNELS",Sky Sport Mix (DE)
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/de-skymix.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-76e5ca834df13931c1ef61efad9aa0be
+
+#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="24/7 CHANNELS",TNT Sports 1
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/uk-tntsport1.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-7c1f4bb8b2416d896e009a6dd61b3f1b
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="24/7 CHANNELS",Sky Sports Main Event
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/uk-skysportmain.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-e7f67c8272ed9defd1accbc25b80ba80
+
+#EXTINF:-1 tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="24/7 CHANNELS",TNT Sports 3
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/uk-tntsport3.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-7fea8355a77551a1f82201bc285dc58b
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/2560px-ITV4_logo_%282022%29.svg.png" group-title="24/7 CHANNELS",ITV4
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/uk-itv4.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-f5d42597db18501460de07cb173d520b
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="24/7 CHANNELS",TUDN
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/usa-tudn.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-44d8c3f501905f8f4639ac0fe5d999de
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/ITV2_Logo_2013.svg/2560px-ITV2_Logo_2013.svg.png" group-title="24/7 CHANNELS",ITV2
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/uk-itv2.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-8585d3c003ca5bf9fb0fda7f7671f4f7
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/1200px-WABC_TV_New_2021.svg.png" group-title="24/7 CHANNELS",ABC
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/us-abc.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-341c7e483aedf73f4fed7fcf5d6259a3
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/NHL_Network_2007_print.svg" group-title="24/7 CHANNELS",NHL Network
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/us-nhlnetwork.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-fdda17303e2995d66d7fdacfa8884d31
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/2560px-BBC_News_2022_%28Alt%29.svg.png" group-title="24/7 CHANNELS",BBC News
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/uk-bbcnews.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-e0697b7e0c45d0a572ba68a1c5e99b96
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/ACC_Network_Raycom_Logo.png" group-title="24/7 CHANNELS",ACC Network
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/us-accnetwork.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-b87f4f5738ca3b63fe517dc66dae7652
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg" group-title="24/7 CHANNELS",Sky Sport Premier League (DE)
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/de-skypremierleagaue.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-2289497ae4733a09cc9ab392367eec29
+
+#EXTINF:-1 tvg-logo="https://assets.tv24.co/channels/bt-sport-extra-1-l.webp" group-title="24/7 CHANNELS",TNT Sports 5
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/uk-tntsport5.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-d1ae559857e059d5a4bf5fad30c274ac
+
+#EXTINF:-1 tvg-logo="https://media.info/l/o/6/6595.1491352332.png" group-title="24/7 CHANNELS",beIN Sports Español
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/usa-beinlaliga.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-43d541c5d11938a5117d286c03dcb0ec
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/32/1/nba-tv-logo-png_seeklogo-329250.png" group-title="24/7 CHANNELS",NBA TV
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/us-nbatv.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-229beae218ea24cc6666a4e9d525d646
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/BbcOneWales_201708/bbc%20one%20wales.png" group-title="24/7 CHANNELS",BBC One
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/uk-bbcone.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-0ad109a05524b8b14591d007b2424b8b
+
+#EXTINF:-1 tvg-logo="https://apsiscom.com/images/channels/935.webp" group-title="24/7 CHANNELS",TSN 3
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/es-tsn3.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-b18142a264ecaa80a6bb0f64bdbd5748
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/2048px-CNN_International_logo.svg.png" group-title="24/7 CHANNELS",CNN
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/us-cnn.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-404ad2d67d6999a0122aa7eb9d8a6a08
 
 #EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2013/01/discovery-channel-.eps-logo-vector-400x400.png" group-title="24/7 CHANNELS",Discovery Channel
 #EXTVLCOPT:http-origin=https://fstv.zip
 #EXTVLCOPT:http-referrer=https://fstv.zip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/ent-discovery.m3u8?auth_key=1760455158-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-a8b0c80f698c18e19f31981f0f73e01e
+https://o4.sundaytotueday.store/ent-discovery.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-b047dec3cc87f1f745b9ad6a8f051c33
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="24/7 CHANNELS",TNT
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/us-tnt.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-4fdea6f1813b3b723a7a37a9746f5228
+
+#EXTINF:-1 tvg-logo="https://live-tv.b-cdn.net/icons/sports/image_(5).png" group-title="24/7 CHANNELS",Sky Sports Plus
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/uk-skyplus.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-b4767f8104c1e2615c6ce0003c483a26
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png" group-title="24/7 CHANNELS",Tennis Channel 2
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/us-tennistv2.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-36ee00f6fdce4a69000a87fc8640ea11
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXw53gnUV1zL1tDoAFLmfHNOtpMBx7goFFg&s" group-title="24/7 CHANNELS",Sky Sports Premier League
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/uk-skysportpremierleague.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-11a9ec8d4d69951e91b29fe5c58dd7fd
+
+#EXTINF:-1 tvg-logo="https://www.sec.gov/Archives/edgar/data/1564708/000156470822000051/image_151a.jpg" group-title="24/7 CHANNELS",Fox Sports 2
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o3.sundaytotueday.store/pre31.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-0d91841627a9faf4e278200465389ed4
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sutruq1433379787.png" group-title="24/7 CHANNELS",TSN 2
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/es-tsn2.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-07b62c28d022b3224c2fb7c034b2c1af
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="24/7 CHANNELS",MLB Network
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/us-mlbnetwork.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-d3499870951d52e2c2939987603f6708
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/FanDuel_Sports_Network_logo.svg" group-title="24/7 CHANNELS",FanDuel TV
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o3.sundaytotueday.store/pre32.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-ca144111609a25fab96cb87c353159ca
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="24/7 CHANNELS",HBO
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/ent-hbo.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-537d4275b1168c290a707eb1b11239ba
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/1200px-TBS_2020.svg.png" group-title="24/7 CHANNELS",TBS
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/zzz-cty4.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-084517de32fcebec965c66d368212b17
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="24/7 CHANNELS",GOL TV
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/us-goltv.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-0305e6f27f3dddb3f13ce6c8cde80cd2
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/W_Network_2002_3D.svg" group-title="24/7 CHANNELS",W Network
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/us-wnetwork.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-efc7d2a8f1a5f343327ddbb7bb25b92d
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/DAZN_2.svg" group-title="24/7 CHANNELS",DAZN 2
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o3.sundaytotueday.store/de-dazn2.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-0393de79b4ef765cda5cace52b0759ff
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="24/7 CHANNELS",TSN 1
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/es-tsn1.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-ee501402aef525a960ddc070af426cbe
+
+#EXTINF:-1 tvg-logo="https://product-catalog-storage.s3.ca-central-1.amazonaws.com/channels/logo/TSN_5_HD.png" group-title="24/7 CHANNELS",TSN 5
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/es-tsn5.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-98d76c5289af23f1df36c36f8926ddc8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg" group-title="24/7 CHANNELS",Sport TV 1
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o3.sundaytotueday.store/pt-sporttv1.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-085c7e26bad205388cc23f47f4c4edbc
+
+#EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/media/6928.jpg" group-title="24/7 CHANNELS",Benfica TV
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o3.sundaytotueday.store/pt-benfica.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-2fc0f3d752fd613936e79b5b036d216f
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/yrrvpq1433380019.png" group-title="24/7 CHANNELS",TSN 4
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/es-tsn4.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-28f6122211b7d5327466215749badfbc
+
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/hbo-2.svg" group-title="24/7 CHANNELS",HBO 2
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/ent-greatmovie.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-afa82c63c83b8aa43e4d081a5b83feac
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="24/7 CHANNELS",Cinemax
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/ent-cinemax.m3u8?auth_key=1760458857-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-1fc87018bf80743d6f170868ae53eae0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/2560px-Sport-Digital.svg.png" group-title="24/7 CHANNELS",Sportdigital Fussball
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/de-sportdigital.m3u8?auth_key=1760458858-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-54c0c9da9f63895c0732dd7e3ea84c71
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_UniM%C3%A1s.svg" group-title="24/7 CHANNELS",UniMás
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/uk-unimas.m3u8?auth_key=1760458858-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-6055c1583c5279d5b69f993ba0001f61
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1200px-ITV1_logo_%282022%29.svg.png" group-title="24/7 CHANNELS",ITV1
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/uk-itv1.m3u8?auth_key=1760458858-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-c9b1c4db33c8436489e341350d7dc32d
+
+#EXTINF:-1 tvg-logo="https://media-sport.b-cdn.net/basketball/leagues/194.png" group-title="EVENTS| BASKETBALL EUROCUP",Cedevita Olimpija vs. Aris (SERVER-1)
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/magenta03.m3u8?auth_key=1760458854-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-4559e600a441286dcf7c41fec9c3fa40
+
+#EXTINF:-1 tvg-logo="https://media-sport.b-cdn.net/basketball/leagues/194.png" group-title="EVENTS| BASKETBALL EUROCUP",Turk Telekom vs. Buducnost (SERVER-1)
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/magenta02.m3u8?auth_key=1760458854-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-bdea104a6132c62e99e5674f62ca4363
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2633/2633933.png" group-title="EVENTS| EVENT TENNIS",ATP Tour 250 & WTA Tour 250 (SERVER-2)
 #EXTVLCOPT:http-origin=https://fstv.zip
 #EXTVLCOPT:http-referrer=https://fstv.zip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o2.sundaytotueday.store/us-tennistv.m3u8?auth_key=1760455151-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-cfd6692247a0deeaed64a2f7d1716df6
+https://o2.sundaytotueday.store/us-tennistv.m3u8?auth_key=1760458854-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-06d5ade3c5db49c6e9a45473dee4c904
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2633/2633933.png" group-title="EVENTS| EVENT TENNIS",ATP Tour 250 & WTA Tour 250 (SERVER-1)
 #EXTVLCOPT:http-origin=https://fstv.zip
 #EXTVLCOPT:http-referrer=https://fstv.zip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://o4.sundaytotueday.store/uk-skysporttenis.m3u8?auth_key=1760455151-edda18a6cb6ec784731135b9d1603d14-00000000000000000000000000000000-ac9457a2587893fd0252590ca09e58cb
+https://o4.sundaytotueday.store/uk-skysporttenis.m3u8?auth_key=1760458854-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-d5d8ddbadce04d2b97ff6e6c586bab11
+
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/fifa/fifa_PNG11.png" group-title="EVENTS| FOOTBALL FRIENDLIES",Norway vs. New Zealand (SERVER-2)
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o3.sundaytotueday.store/de-dazn1.m3u8?auth_key=1760458854-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-6d154c278c360c2830d1197cfd319f74
+
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/fifa/fifa_PNG11.png" group-title="EVENTS| FOOTBALL FRIENDLIES",Norway vs. New Zealand (SERVER-1)
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/usa-foxsoccerplus.m3u8?auth_key=1760458854-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-03eb23b1d8b254f12a1e1a15f74b815d
+
+#EXTINF:-1 tvg-logo="https://media-sport.b-cdn.net/football/leagues/850.png" group-title="EVENTS| FOOTBALL UEFA U21 CHAMPIONSHIP - QUALIFICATION",Bulgaria U21 vs. Czech Republic U21 (SERVER-1)
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o3.sundaytotueday.store/dmtn41.m3u8?auth_key=1760458854-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-3b0301e8c89b6f6a7ab95a72f7280d53
+
+#EXTINF:-1 tvg-logo="https://media-sport.b-cdn.net/football/leagues/850.png" group-title="EVENTS| FOOTBALL UEFA U21 CHAMPIONSHIP - QUALIFICATION",Austria U21 vs. Wales U21 (SERVER-1)
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/linec7.m3u8?auth_key=1760458854-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-de2be802b443d23fe89870ec3fa42298
+
+#EXTINF:-1 tvg-logo="https://media-sport.b-cdn.net/football/leagues/850.png" group-title="EVENTS| FOOTBALL UEFA U21 CHAMPIONSHIP - QUALIFICATION",Hungary U21 vs. Turkey U21 (SERVER-1)
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/linec8.m3u8?auth_key=1760458854-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-c5d5fa1643226bd35ea01ad7152d9a82
+
+#EXTINF:-1 tvg-logo="https://media-sport.b-cdn.net/football/leagues/850.png" group-title="EVENTS| FOOTBALL UEFA U21 CHAMPIONSHIP - QUALIFICATION",Sweden U21 vs. Poland U21 (SERVER-1)
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o3.sundaytotueday.store/dmtn32.m3u8?auth_key=1760458854-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-98fe666e19da9556c9b71505ddde2a55
+
+#EXTINF:-1 tvg-logo="https://media-sport.b-cdn.net/football/leagues/850.png" group-title="EVENTS| FOOTBALL UEFA U21 CHAMPIONSHIP - QUALIFICATION",Italy U21 vs. Armenia U21 (SERVER-1)
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/linec9.m3u8?auth_key=1760458854-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-53f734c8e93d266095a2343829ed30cc
+
+#EXTINF:-1 tvg-logo="https://media-sport.b-cdn.net/football/leagues/850.png" group-title="EVENTS| FOOTBALL UEFA U21 CHAMPIONSHIP - QUALIFICATION",Northern Ireland U21 vs. Germany U21 (SERVER-1)
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o3.sundaytotueday.store/dmtn42.m3u8?auth_key=1760458855-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-daaf20d0ada599fe798d4c4d29e7d54b
+
+#EXTINF:-1 tvg-logo="https://media-sport.b-cdn.net/football/leagues/29.png" group-title="EVENTS| FOOTBALL WORLD CUP - QUALIFICATION AFRICA",Guinea vs. Botswana (SERVER-1)
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o3.sundaytotueday.store/dmtn21.m3u8?auth_key=1760458854-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-b44c60c8a396d10aca2fd72ebb21cf36
+
+#EXTINF:-1 tvg-logo="https://media-sport.b-cdn.net/football/leagues/29.png" group-title="EVENTS| FOOTBALL WORLD CUP - QUALIFICATION AFRICA",Nigeria vs. Benin (SERVER-1)
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/de-sportdigital.m3u8?auth_key=1760458854-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-415a58c8b3b627a37f7da2090ae840b7
+
+#EXTINF:-1 tvg-logo="https://media-sport.b-cdn.net/football/leagues/29.png" group-title="EVENTS| FOOTBALL WORLD CUP - QUALIFICATION AFRICA",Somalia vs. Mozambique (SERVER-1)
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o3.sundaytotueday.store/pt-sporttv1.m3u8?auth_key=1760458854-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-b4b5197f03abf13832368c4c071c0890
+
+#EXTINF:-1 tvg-logo="https://media-sport.b-cdn.net/football/leagues/29.png" group-title="EVENTS| FOOTBALL WORLD CUP - QUALIFICATION AFRICA",South Africa vs. Rwanda (SERVER-2)
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o3.sundaytotueday.store/dmtn22.m3u8?auth_key=1760458854-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-075b51abe2ca5da2926fd868b7a8e184
+
+#EXTINF:-1 tvg-logo="https://media-sport.b-cdn.net/football/leagues/29.png" group-title="EVENTS| FOOTBALL WORLD CUP - QUALIFICATION AFRICA",South Africa vs. Rwanda (SERVER-1)
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o4.sundaytotueday.store/nl-espn2.m3u8?auth_key=1760458854-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-acd9b7e88f76794e86b5221d2749e5e6
+
+#EXTINF:-1 tvg-logo="https://media-sport.b-cdn.net/football/leagues/29.png" group-title="EVENTS| FOOTBALL WORLD CUP - QUALIFICATION AFRICA",Algeria vs. Uganda (SERVER-1)
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o3.sundaytotueday.store/dmtn31.m3u8?auth_key=1760458854-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-645e811f9194df866797355473f4bf83
+
+#EXTINF:-1 tvg-logo="https://media-sport.b-cdn.net/football/leagues/32.png" group-title="EVENTS| FOOTBALL WORLD CUP - QUALIFICATION EUROPE",Estonia vs. Moldova (SERVER-1)
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://o2.sundaytotueday.store/usa-fs2.m3u8?auth_key=1760458854-6f89cb1a652da9454153af8f12e1794a-00000000000000000000000000000000-352cd39f7f733bfe902c5faa7d41a49a
 
