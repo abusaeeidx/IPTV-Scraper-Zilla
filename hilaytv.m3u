@@ -33,7 +33,7 @@ https://maldivesn.net/hilaytv/events1
 https://maldivesn.net/hilaytv/events2
 
 #EXTINF:-1 tvg-id="events3.mv" tvg-name="LIVE EVENTS 3" tvg-logo="https://8upload.com/image/68ddf99cbaa75/livehilay.png" group-title="Sports", LIVE EVENTS 3
-https://www.youtube.com/@varzishtv/live
+https://maldivesn.net/hilaytv/events3
 
 #EXTINF:-1 tvg-id="mondhutv" tvg-name="Mondhu TV" tvg-logo="https://8upload.com/image/68df1ddf5e230/mondhutvhilay.png" group-title="Dhivehi", Mondhu TV
 https://maldivesn.net/hilaytv/mondhutv
@@ -16503,8 +16503,10 @@ https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
 #KODIPROP:inputstream.adaptive.license_key=
 https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
 
-#EXTINF:-1 tvg-id="Mediaset1.it" tvg-name="Mediaset1.it" tvg-logo="https://iili.io/d93wOtS.png" group-title="WORLD TV",ITALIA 1 üáÆüáπ
-https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd
+#EXTINF:-1 tvg-id="Mediaset1.it" tvg-name="Mediaset1.it" tvg-logo="https://iili.io/d93wOtS.png" group-title="WORLD TV",ITALIA 1 üÄÄÚã†ºÚéêähttps://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
 
 #EXTINF:-1 tvg-id="Mediaset5.it" tvg-name="canale5" tvg-logo="" group-title="WORLD TV",CANALE 5 üáÆüáπ
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd
