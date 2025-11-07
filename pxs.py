@@ -5,7 +5,7 @@ from urllib.error import URLError, HTTPError
 BASE = "https://pixelsport.tv"
 API_EVENTS = f"{BASE}/backend/liveTV/events"
 API_SLIDERS = f"{BASE}/backend/slider/getSliders"
-OUTPUT_FILE = "Pixelsports.m3u8"
+OUTPUT_FILE = "Pixelsports.m3u"
 
 LIVE_TV_LOGO = "https://pixelsport.tv/static/media/PixelSportLogo.1182b5f687c239810f6d.png"
 LIVE_TV_ID = "24.7.Dummy.us"
