@@ -64,58 +64,43 @@ https://live.webcastserver.online/newz/newz/100.m3u8
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://live.webcastserver.online/newz/newz/87.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Boston Celtics @ Orlando Magic" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/orl.png&w=64&h=64" group-title="NBAWebcast - Live Games",Boston Celtics @ Orlando Magic
-#EXTVLCOPT:http-origin=https.embednow.top
-#EXTVLCOPT:http-referrer=https.embednow.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gg.poocloud.in/nba_orl/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Cleveland Cavaliers @ Washington Wizards" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/wsh.png&w=64&h=64" group-title="NBAWebcast - Live Games",Cleveland Cavaliers @ Washington Wizards
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Dallas Mavericks @ Washington Wizards" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/wsh.png&w=64&h=64" group-title="NBAWebcast - Live Games",Dallas Mavericks @ Washington Wizards
 #EXTVLCOPT:http-origin=https.embednow.top
 #EXTVLCOPT:http-referrer=https.embednow.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://gg.poocloud.in/nba_wsh/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Toronto Raptors @ Atlanta Hawks" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/atl.png&w=64&h=64" group-title="NBAWebcast - Live Games",Toronto Raptors @ Atlanta Hawks
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Toronto Raptors @ Philadelphia 76ers" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/phi.png&w=64&h=64" group-title="NBAWebcast - Live Games",Toronto Raptors @ Philadelphia 76ers
+#EXTVLCOPT:http-origin=https.embednow.top
+#EXTVLCOPT:http-referrer=https.embednow.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://gg.poocloud.in/nba_phi/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Los Angeles Lakers @ Atlanta Hawks" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/atl.png&w=64&h=64" group-title="NBAWebcast - Live Games",Los Angeles Lakers @ Atlanta Hawks
 #EXTVLCOPT:http-origin=https.embednow.top
 #EXTVLCOPT:http-referrer=https.embednow.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://gg.poocloud.in/nba_atl/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Detroit Pistons @ Brooklyn Nets" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/bkn.png&w=64&h=64" group-title="NBAWebcast - Live Games",Detroit Pistons @ Brooklyn Nets
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Chicago Bulls @ Cleveland Cavaliers" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/cle.png&w=64&h=64" group-title="NBAWebcast - Live Games",Chicago Bulls @ Cleveland Cavaliers
 #EXTVLCOPT:http-origin=https.embednow.top
 #EXTVLCOPT:http-referrer=https.embednow.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gg.poocloud.in/nba_bkn/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Houston Rockets @ San Antonio Spurs" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/sa.png&w=64&h=64" group-title="NBAWebcast - Live Games",Houston Rockets @ San Antonio Spurs
-#EXTVLCOPT:http-origin=https.embednow.top
-#EXTVLCOPT:http-referrer=https.embednow.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gg.poocloud.in/nba_sa/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Charlotte Hornets @ Miami Heat" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/mia.png&w=64&h=64" group-title="NBAWebcast - Live Games",Charlotte Hornets @ Miami Heat
+https://gg.poocloud.in/nba_cle/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Portland Trail Blazers @ Miami Heat" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/mia.png&w=64&h=64" group-title="NBAWebcast - Live Games",Portland Trail Blazers @ Miami Heat
 #EXTVLCOPT:http-origin=https.embednow.top
 #EXTVLCOPT:http-referrer=https.embednow.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://gg.poocloud.in/nba_mia/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Dallas Mavericks @ Memphis Grizzlies" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/mem.png&w=64&h=64" group-title="NBAWebcast - Live Games",Dallas Mavericks @ Memphis Grizzlies
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="New Orleans Pelicans @ San Antonio Spurs" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/sa.png&w=64&h=64" group-title="NBAWebcast - Live Games",New Orleans Pelicans @ San Antonio Spurs
 #EXTVLCOPT:http-origin=https.embednow.top
 #EXTVLCOPT:http-referrer=https.embednow.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gg.poocloud.in/nba_mem/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Chicago Bulls @ Milwaukee Bucks" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/mil.png&w=64&h=64" group-title="NBAWebcast - Live Games",Chicago Bulls @ Milwaukee Bucks
-#EXTVLCOPT:http-origin=https.embednow.top
-#EXTVLCOPT:http-referrer=https.embednow.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gg.poocloud.in/nba_mil/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Utah Jazz @ Minnesota Timberwolves" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/min.png&w=64&h=64" group-title="NBAWebcast - Live Games",Utah Jazz @ Minnesota Timberwolves
-#EXTVLCOPT:http-origin=https.embednow.top
-#EXTVLCOPT:http-referrer=https.embednow.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gg.poocloud.in/nba_min/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Golden State Warriors @ Denver Nuggets" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/den.png&w=64&h=64" group-title="NBAWebcast - Live Games",Golden State Warriors @ Denver Nuggets
+https://gg.poocloud.in/nba_sa/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Indiana Pacers @ Denver Nuggets" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/den.png&w=64&h=64" group-title="NBAWebcast - Live Games",Indiana Pacers @ Denver Nuggets
 #EXTVLCOPT:http-origin=https.embednow.top
 #EXTVLCOPT:http-referrer=https.embednow.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://gg.poocloud.in/nba_den/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Oklahoma City Thunder @ Sacramento Kings" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/sac.png&w=64&h=64" group-title="NBAWebcast - Live Games",Oklahoma City Thunder @ Sacramento Kings
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Phoenix Suns @ LA Clippers" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/lac.png&w=64&h=64" group-title="NBAWebcast - Live Games",Phoenix Suns @ LA Clippers
 #EXTVLCOPT:http-origin=https.embednow.top
 #EXTVLCOPT:http-referrer=https.embednow.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gg.poocloud.in/nba_sac/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/nba_lac/tracks-v1a1/mono.ts.m3u8
