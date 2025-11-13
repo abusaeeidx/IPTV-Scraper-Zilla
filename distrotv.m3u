@@ -2,8 +2,8 @@
 # 🖥️ Developed by: Abu SAEEID X Noob
 # 🔗 GitHub/Telegram: @abusaeeidx
 # 📡 IPTV Telegram Channels: @xfireflixbd
-# 🕒 Last Updated: 2025-11-13 12:23:11 AM (BD Time)
-# 📺 Channels Count : 487
+# 🕒 Last Updated: 2025-11-13 07:15:05 AM (BD Time)
+# 📺 Channels Count : 491
 # 📜 Disclaimer:
 # 🎯 This tool does NOT host any content.
 # 📌 It aggregates publicly available data for informational purposes only.
@@ -14,12 +14,14 @@
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/outsidetv/playlist.m3u8
 #EXTINF:-1 tvg-id="bloomberg-television" tvg-logo="https://a.jsrdn.com/hls/22938/bloomberg-television/poster_20210205_222905.jpg" group-title="Featured",Bloomberg Television
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bloomberg-television/bloombergtv.m3u8
+#EXTINF:-1 tvg-id="pll-network" tvg-logo="https://a.jsrdn.com/hls/22964/pll-network/poster_20240626_231935.jpg" group-title="Featured",PLL Network
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pll-network/pllne.m3u8
+#EXTINF:-1 tvg-id="gusto-tv" tvg-logo="https://a.jsrdn.com/hls/23062/gusto-tv/poster_20240328_235541.jpg" group-title="Featured",Gusto TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="bein-sports-xtra-en-espanol" tvg-logo="https://a.jsrdn.com/hls/23038/bein-sports-xtra-en-espanol/poster_20241002_231157.png" group-title="Featured",beIN SPORTS Xtra en Español
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:-1 tvg-id="entrepreneur-1" tvg-logo="https://a.jsrdn.com/hls/22851/entrepreneur-1/poster_20240521_223037.jpg" group-title="Featured",Entrepreneur
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/entrepreneur/master.m3u8
-#EXTINF:-1 tvg-id="gusto-tv" tvg-logo="https://a.jsrdn.com/hls/23062/gusto-tv/poster_20240328_235541.jpg" group-title="Featured",Gusto TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="united-fight-alliance-1" tvg-logo="https://a.jsrdn.com/hls/22778/united-fight-alliance-1/poster_20230316_231448.png" group-title="Featured",United Fight Alliance
 https://moments.videobyte.com/api/livestreaming.m3u8
 #EXTINF:-1 tvg-id="strongman-champions-league-1" tvg-logo="https://a.jsrdn.com/hls/22974/strongman-champions-league-1/poster_20210726_235140.jpg" group-title="Featured",Strongman Champions League
@@ -44,8 +46,6 @@ https://ssai.gumgum.com/gs/stream/master/navio/hls.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8
 #EXTINF:-1 tvg-id="mtrspt1" tvg-logo="https://a.jsrdn.com/hls/23099/mtrspt1/poster_20250122_232633.jpg" group-title="Featured",MTRSPT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
-#EXTINF:-1 tvg-id="pll-network" tvg-logo="https://a.jsrdn.com/hls/22964/pll-network/poster_20240626_231935.jpg" group-title="Featured",PLL Network
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pll-network/pllne.m3u8
 #EXTINF:-1 tvg-id="world-poker-tour" tvg-logo="https://a.jsrdn.com/hls/22893/world-poker-tour/poster_20231219_224337.jpg" group-title="Featured",World Poker Tour
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 #EXTINF:-1 tvg-id="swerve-combat" tvg-logo="https://a.jsrdn.com/hls/23018/swerve-combat/poster_20240117_191814.jpg" group-title="Featured",Swerve Combat
@@ -118,6 +118,10 @@ https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8
 #EXTINF:-1 tvg-id="al-arabiya" tvg-logo="https://a.jsrdn.com/hls/23137/al-arabiya/poster_20231205_175721.jpg" group-title="News & Opinion",Al Arabiya
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-arabiya/master.m3u8
+#EXTINF:-1 tvg-id="sandesh-news" tvg-logo="https://a.jsrdn.com/hls/23233/sandesh-news/poster_20251028_214638.jpg" group-title="New Arrivals",Sandesh News
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sandesh-news/index.m3u8
+#EXTINF:-1 tvg-id="sakshi-tv" tvg-logo="https://a.jsrdn.com/hls/23234/sakshi-tv/poster_20251029_121716.png" group-title="New Arrivals",Sakshi Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sakshi-tv/index.m3u8
 #EXTINF:-1 tvg-id="cinema-yoruba" tvg-logo="https://a.jsrdn.com/hls/23181/cinema-yoruba/poster_20250818_193405.jpg" group-title="New Arrivals",Cinema Yoruba
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinema-yoruba/video.m3u8
 #EXTINF:-1 tvg-id="gujarat-first" tvg-logo="https://a.jsrdn.com/hls/23215/gujarat-first/poster_20251028_215131.jpg" group-title="New Arrivals",Gujarat First
@@ -368,7 +372,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv-punjab/master.m3u8
 #EXTINF:-1 tvg-id="vande-bharat-news" tvg-logo="https://a.jsrdn.com/hls/23215/vande-bharat-news/poster_20250429_224257.png" group-title="Desi News",Vande Bharat News
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/vande-bharat-news/index.m3u8
-#EXTINF:-1 tvg-id="news-flash" tvg-logo="https://a.jsrdn.com/hls/23215/news-flash/poster_20250429_232713.jpg" group-title="Desi News",News Flash
+#EXTINF:-1 tvg-id="indian-news" tvg-logo="https://a.jsrdn.com/hls/23215/indian-news/poster_20251112_192834.jpg" group-title="Desi News",Indian News
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-flash/index.m3u8
 #EXTINF:-1 tvg-id="global-punjab-tv" tvg-logo="https://a.jsrdn.com/hls/22994/global-punjab-tv/poster_20240604_233918.png" group-title="Desi News",Global Punjab TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/global-punjab-tv/index.m3u8
@@ -410,8 +414,12 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/janataa-tv-kannada/index.m3u8
 #EXTINF:-1 tvg-id="da-news-plus" tvg-logo="https://a.jsrdn.com/hls/23215/da-news-plus/poster_20251009_222530.jpg" group-title="Desi News",DA News Plus
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/da-news-plus/index.m3u8
+#EXTINF:-1 tvg-id="sandesh-news" tvg-logo="https://a.jsrdn.com/hls/23233/sandesh-news/poster_20251028_214638.jpg" group-title="Desi News",Sandesh News
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sandesh-news/index.m3u8
 #EXTINF:-1 tvg-id="gujarat-first" tvg-logo="https://a.jsrdn.com/hls/23215/gujarat-first/poster_20251028_215131.jpg" group-title="Desi News",Gujarat First
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gujarat-first/index.m3u8
+#EXTINF:-1 tvg-id="sakshi-tv" tvg-logo="https://a.jsrdn.com/hls/23234/sakshi-tv/poster_20251029_121716.png" group-title="Desi News",Sakshi Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sakshi-tv/index.m3u8
 #EXTINF:-1 tvg-id="bowery-classics" tvg-logo="https://a.jsrdn.com/hls/22969/bowery-classics/poster_20211018_170610.png" group-title="Classic Shows & Movies",Bowery Classics
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bowery-classics/master.m3u8
 #EXTINF:-1 tvg-id="nost-the-nostalgia-network" tvg-logo="https://a.jsrdn.com/hls/22956/nost-the-nostalgia-network/poster_20230403_172555.jpg" group-title="Classic Shows & Movies",NOST - The Nostalgia Network
@@ -610,30 +618,32 @@ https://api-ott.skwadplay.com/loggingmediaurlpassthrough/a.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8
 #EXTINF:-1 tvg-id="fwtv" tvg-logo="https://a.jsrdn.com/hls/22914/fwtv/poster_20240521_223106.jpg" group-title="Fun & Games",fw.tv by Firework
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fwtv/master.m3u8
-#EXTINF:-1 tvg-id="sports-first-tv" tvg-logo="https://a.jsrdn.com/hls/23208/sports-first-tv/poster_20250211_205729.jpg" group-title="Live Sports",Sports First TV
-https://d2396zb8liu8hs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/409.m3u8
-#EXTINF:-1 tvg-id="bein-sports-xtra" tvg-logo="https://a.jsrdn.com/hls/23038/bein-sports-xtra/poster_20241002_231053.png" group-title="Live Sports",beIN SPORTS Xtra
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra/playlist.m3u8
-#EXTINF:-1 tvg-id="willow-sports" tvg-logo="https://a.jsrdn.com/hls/23197/willow-sports/poster_20241003_234951.jpg" group-title="Live Sports",Willow Sports
-https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8
-#EXTINF:-1 tvg-id="court-sports-network" tvg-logo="https://a.jsrdn.com/hls/22930/court-sports-network/poster_20231012_182656.png" group-title="Live Sports",Court Sports Network
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/court-sports-network/playlist.m3u8
 #EXTINF:-1 tvg-id="pll-network" tvg-logo="https://a.jsrdn.com/hls/22964/pll-network/poster_20240626_231935.jpg" group-title="Live Sports",PLL Network
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pll-network/pllne.m3u8
+#EXTINF:-1 tvg-id="floracing-247" tvg-logo="https://a.jsrdn.com/hls/22883/floracing-247/poster_20230808_180216.png" group-title="Live Sports",FloRacing 24/7
+https://amg02278-amg02278c1-distrotv-us-7534.playouts.now.amagi.tv/playlist/amg02278-flosports-floracing24x7-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-id="bein-sports-xtra" tvg-logo="https://a.jsrdn.com/hls/23038/bein-sports-xtra/poster_20241002_231053.png" group-title="Live Sports",beIN SPORTS Xtra
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra/playlist.m3u8
+#EXTINF:-1 tvg-id="mtrspt1" tvg-logo="https://a.jsrdn.com/hls/23099/mtrspt1/poster_20250122_232633.jpg" group-title="Live Sports",MTRSPT1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="court-sports-network" tvg-logo="https://a.jsrdn.com/hls/22930/court-sports-network/poster_20231012_182656.png" group-title="Live Sports",Court Sports Network
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/court-sports-network/playlist.m3u8
+#EXTINF:-1 tvg-id="billiard-tv" tvg-logo="https://a.jsrdn.com/hls/22964/billiard-tv/poster_20210622_195953.png" group-title="Live Sports",Billiard TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/billi.m3u8
+#EXTINF:-1 tvg-id="willow-sports" tvg-logo="https://a.jsrdn.com/hls/23197/willow-sports/poster_20241003_234951.jpg" group-title="Live Sports",Willow Sports
+https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="cowboy-channel" tvg-logo="https://a.jsrdn.com/hls/23180/cowboy-channel/poster_20250512_172554.jpg" group-title="Live Sports",Cowboy Channel
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="stadium" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22820/stadium/poster_20200717_232723.jpg" group-title="Live Sports",Stadium
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stadium/playlist.m3u8
-#EXTINF:-1 tvg-id="floracing-247" tvg-logo="https://a.jsrdn.com/hls/22883/floracing-247/poster_20230808_180216.png" group-title="Live Sports",FloRacing 24/7
-https://amg02278-amg02278c1-distrotv-us-7534.playouts.now.amagi.tv/playlist/amg02278-flosports-floracing24x7-distrotvus/playlist.m3u8
-#EXTINF:-1 tvg-id="mtrspt1" tvg-logo="https://a.jsrdn.com/hls/23099/mtrspt1/poster_20250122_232633.jpg" group-title="Live Sports",MTRSPT1
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="si-tv" tvg-logo="https://a.jsrdn.com/hls/22930/campuslore-sports/poster_20210916_225145.png" group-title="Live Sports",SI TV
 https://ssai.gumgum.com/gs/stream/master/navio/hls.m3u8
 #EXTINF:-1 tvg-id="sportstvplus" tvg-logo="https://a.jsrdn.com/hls/23195/sportstvplus/poster_20241119_225317.jpg" group-title="Live Sports",SportsTVPlus
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now,-1m/m.m3u8
 #EXTINF:-1 tvg-id="sports-connect" tvg-logo="https://a.jsrdn.com/hls/23181/sports-connect/poster_20230118_180911.png" group-title="Live Sports",Sports Connect
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sports-connect/video.m3u8
+#EXTINF:-1 tvg-id="sports-first-tv" tvg-logo="https://a.jsrdn.com/hls/23208/sports-first-tv/poster_20250211_205729.jpg" group-title="Live Sports",Sports First TV
+https://d2396zb8liu8hs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/409.m3u8
 #EXTINF:-1 tvg-id="acc-1" tvg-logo="https://a.jsrdn.com/hls/22820/acc-1/poster_20200526_193856.jpg" group-title="Live Sports",ACC
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/acc-1/master.m3u8
 #EXTINF:-1 tvg-id="ftf-sports" tvg-logo="https://a.jsrdn.com/hls/22729/ftf-sports/poster_20240521_222752.png" group-title="Live Sports",FTF Sports
@@ -644,8 +654,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bleav-football/playlist.m3u8
 #EXTINF:-1 tvg-id="pro-football-focus" tvg-logo="https://a.jsrdn.com/hls/22952/pro-football-focus/poster_20210412_083442.jpg" group-title="Live Sports",Pro Football Focus
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pro-football-focus/master.m3u8
-#EXTINF:-1 tvg-id="billiard-tv" tvg-logo="https://a.jsrdn.com/hls/22964/billiard-tv/poster_20210622_195953.png" group-title="Live Sports",Billiard TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/billi.m3u8
 #EXTINF:-1 tvg-id="kozoom-tv" tvg-logo="https://a.jsrdn.com/hls/23064/kozoom-tv/poster_20220531_190546.jpg" group-title="Live Sports",KOZOOM TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8
 #EXTINF:-1 tvg-id="motorracing" tvg-logo="https://a.jsrdn.com/hls/22705/motorracing/poster_20240122_173857.jpg" group-title="Live Sports",MotorRacing
