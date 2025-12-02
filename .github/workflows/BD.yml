@@ -1,0 +1,30 @@
+name: X
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  j1:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: s1
+        env:
+          a1: ${{ secrets.sbdm }}
+          b2: ${{ secrets.fbdm }}
+          c3: ${{ secrets.gu }}
+          d4: ${{ secrets.ge }}
+        run: |
+          import datetime, os
+          t = datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')
+          m = f"LUT-{t.replace(' ', '').replace(':','')}"
+          os.system(f'curl -sSL "{os.environ["a1"]}" -o "{os.environ["b2"]}"')
+          os.system(f'git config --global user.name "{os.environ["c3"]}"')
+          os.system(f'git config --global user.email "{os.environ["d4"]}"')
+          os.system(f'git add {os.environ["b2"]}')
+          os.system(f'git commit -m "{m}" || echo x')
+          os.system('git push')
+          print(f"MSG:{m}")
+        shell: python
