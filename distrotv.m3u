@@ -2,8 +2,8 @@
 # 🖥️ Developed by: Abu SAEEID X Noob
 # 🔗 GitHub/Telegram: @abusaeeidx
 # 📡 IPTV Telegram Channels: @xfireflixbd
-# 🕒 Last Updated: 2026-03-24 07:02:21 PM (BD Time)
-# 📺 Channels Count : 420
+# 🕒 Last Updated: 2026-03-25 12:57:01 AM (BD Time)
+# 📺 Channels Count : 434
 # 📜 Disclaimer:
 # 🎯 This tool does NOT host any content.
 # 📌 It aggregates publicly available data for informational purposes only.
@@ -106,6 +106,20 @@ https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8
 #EXTINF:-1 tvg-id="al-arabiya" tvg-logo="https://a.jsrdn.com/hls/23137/al-arabiya/poster_20231205_175721.jpg" group-title="News & Opinion",Al Arabiya
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-arabiya/master.m3u8
+#EXTINF:-1 tvg-id="absinthe-tv" tvg-logo="https://a.jsrdn.com/hls/23064/absinthe-tv/poster_20260324_011117.png" group-title="New Arrivals",Absinthe TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/absinthe-tv/manifest.m3u8
+#EXTINF:-1 tvg-id="chrono-tv" tvg-logo="https://a.jsrdn.com/hls/23064/chrono-tv/poster_20260324_012147.png" group-title="New Arrivals",CHRONO TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/chrono-tv/manifest.m3u8
+#EXTINF:-1 tvg-id="drive-plus-speed" tvg-logo="https://a.jsrdn.com/hls/22626/drive-plus-speed/poster_20260324_012748.png" group-title="New Arrivals",DRIVE + SPEED
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/drive-plus-speed/manifest.m3u8
+#EXTINF:-1 tvg-id="fight-tv" tvg-logo="https://a.jsrdn.com/hls/23064/fight-tv/poster_20260324_013248.png" group-title="New Arrivals",FIGHT TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fight-tv/manifest.m3u8
+#EXTINF:-1 tvg-id="horror-tv" tvg-logo="https://a.jsrdn.com/hls/23064/horror-tv/poster_20260324_013629.png" group-title="New Arrivals",HORROR TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horror-tv/master.m3u8
+#EXTINF:-1 tvg-id="test-my-ride" tvg-logo="https://a.jsrdn.com/hls/23064/test-my-ride/poster_20260324_014619.png" group-title="New Arrivals",TEST MY RIDE
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/test-my-ride/master.m3u8
+#EXTINF:-1 tvg-id="the-ring-tv" tvg-logo="https://a.jsrdn.com/hls/23064/the-ring-tv/poster_20260324_015852.png" group-title="New Arrivals",THE RING TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-ring-tv/manifest.m3u8
 #EXTINF:-1 tvg-id="the-homestyle-channel" tvg-logo="https://a.jsrdn.com/hls/23250/the-homestyle-channel/poster_20260317_181926.jpg" group-title="New Arrivals",The Homestyle Channel
 https://amg02585-amg02585c1-amgplt0081.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg02585-amg02585c1-amgplt0081/playlist.m3u8
 #EXTINF:-1 tvg-id="hunt-fish-tv" tvg-logo="https://a.jsrdn.com/hls/23064/hunt-fish-tv/poster_20260317_202528.png" group-title="New Arrivals",HUNT FISH TV
@@ -418,6 +432,8 @@ https://api-ott-imps-imps.ottera.tv/loggingmediaurlpassthrough/a.m3u8
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/5ZVSPT4VKTGB7IPEEXY3/hls3/now,-1m/m.m3u8
 #EXTINF:-1 tvg-id="bollywood-classic" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-classic/poster_20220801_200456.jpg" group-title="Classic Shows & Movies",Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1 tvg-id="horror-tv" tvg-logo="https://a.jsrdn.com/hls/23064/horror-tv/poster_20260324_013629.png" group-title="More Movies",HORROR TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horror-tv/master.m3u8
 #EXTINF:-1 tvg-id="screams-tv-by-trinian" tvg-logo="https://a.jsrdn.com/hls/23064/screams-tv-by-trinian/poster_20250617_213707.png" group-title="More Movies",Screams TV by Trinian
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/screams-tv-by-trinian/manifest.m3u8
 #EXTINF:-1 tvg-id="galxy-tv" tvg-logo="https://a.jsrdn.com/hls/22915/galxy-tv/poster_20201029_013654.jpg" group-title="More Movies",Galxy TV
@@ -590,6 +606,12 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/powersports-world/pwrsp.m3u8
 #EXTINF:-1 tvg-id="bein-sports-xtra-en-espanol" tvg-logo="https://a.jsrdn.com/hls/23038/bein-sports-xtra-en-espanol/poster_20260205_200002.png" group-title="Live Sports",beIN SPORTS Xtra en Español
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+#EXTINF:-1 tvg-id="chrono-tv" tvg-logo="https://a.jsrdn.com/hls/23064/chrono-tv/poster_20260324_012147.png" group-title="Live Sports",CHRONO TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/chrono-tv/manifest.m3u8
+#EXTINF:-1 tvg-id="drive-plus-speed" tvg-logo="https://a.jsrdn.com/hls/22626/drive-plus-speed/poster_20260324_012748.png" group-title="Live Sports",DRIVE + SPEED
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/drive-plus-speed/manifest.m3u8
+#EXTINF:-1 tvg-id="test-my-ride" tvg-logo="https://a.jsrdn.com/hls/23064/test-my-ride/poster_20260324_014619.png" group-title="Live Sports",TEST MY RIDE
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/test-my-ride/master.m3u8
 #EXTINF:-1 tvg-id="swerve-combat" tvg-logo="https://a.jsrdn.com/hls/23018/swerve-combat/poster_20240117_191814.jpg" group-title="MMA & More",Swerve Combat
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/swerve-combat/playlist.m3u8
 #EXTINF:-1 tvg-id="tna-wrestling-channel" tvg-logo="https://a.jsrdn.com/hls/23045/tna-wrestling-channel/poster_20241121_200823.jpg" group-title="MMA & More",TNA Wrestling Channel
@@ -606,6 +628,10 @@ https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-DistroTV/263.m3u8
 #EXTINF:-1 tvg-id="channel-fight" tvg-logo="https://a.jsrdn.com/hls/23007/channel-fight/poster_20220928_174432.jpg" group-title="MMA & More",Channel Fight
 https://d15wqvt0xm15k4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ChannelFight-DistroTV/266.m3u8
+#EXTINF:-1 tvg-id="fight-tv" tvg-logo="https://a.jsrdn.com/hls/23064/fight-tv/poster_20260324_013248.png" group-title="MMA & More",FIGHT TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fight-tv/manifest.m3u8
+#EXTINF:-1 tvg-id="the-ring-tv" tvg-logo="https://a.jsrdn.com/hls/23064/the-ring-tv/poster_20260324_015852.png" group-title="MMA & More",THE RING TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-ring-tv/manifest.m3u8
 #EXTINF:-1 tvg-id="wild-nature" tvg-logo="https://a.jsrdn.com/hls/23208/wild-nature/poster_20250401_214212.jpg" group-title="Outdoors",Wild Nature
 https://d3vqzhzmvqrbon.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV2-MuxIP-WildNature/491.m3u8
 #EXTINF:-1 tvg-id="outside-tv" tvg-logo="https://a.jsrdn.com/hls/22765/outside-tv/poster_20220613_202039.png" group-title="Outdoors",Outside
@@ -620,6 +646,8 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/0QU2LXMHQHCESK6R27B8/hls3/now
 https://d3p2bckoqrp179.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV2-MuxIP-WildTV/476.m3u8
 #EXTINF:-1 tvg-id="skull-bound-tv" tvg-logo="https://a.jsrdn.com/hls/23195/skull-bound-tv/poster_20250102_202954.jpg" group-title="Outdoors",Skull Bound TV
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/E93PS4KYXIWU8QT6LONU/hls3/now,-1m/m.m3u8
+#EXTINF:-1 tvg-id="absinthe-tv" tvg-logo="https://a.jsrdn.com/hls/23064/absinthe-tv/poster_20260324_011117.png" group-title="Outdoors",Absinthe TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/absinthe-tv/manifest.m3u8
 #EXTINF:-1 tvg-id="horizon-sports" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22705/horizon-sports/poster_20200717_232723.jpg" group-title="Outdoors",Horizon Sports
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
 #EXTINF:-1 tvg-id="fuel-tv" tvg-logo="https://a.jsrdn.com/hls/23055/fuel-tv/poster_20230130_180956.jpg" group-title="Outdoors",FUEL TV
@@ -668,6 +696,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="western-bound" tvg-logo="https://a.jsrdn.com/hls/23092/western-bound/poster_20240903_072114.jpg" group-title="Lifestyle & Wellness",Western Bound
 https://api-ott-imagicomm-ime.ottera.tv/loggingmediaurlpassthrough/a.m3u8
+#EXTINF:-1 tvg-id="americas-boating-channel" tvg-logo="https://a.jsrdn.com/hls/23064/americas-boating-channel/poster_20260324_011813.png" group-title="Lifestyle & Wellness",AMERICA'S BOATING CHANNEL
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/americas-boating-channel/manifest.m3u8
 #EXTINF:-1 tvg-id="the-boat-show" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22706/the-boat-show/poster_20200129_002936.jpg" group-title="Lifestyle & Wellness",The Boat Show
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-boat-show/master.m3u8
 #EXTINF:-1 tvg-id="awe-encore" tvg-logo="https://a.jsrdn.com/hls/22866/awe-encore/poster_20210113_005833.jpg" group-title="Lifestyle & Wellness",AWE Plus
@@ -696,8 +726,6 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/22G5UVCESMIOP38D3YET/hls3/now
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wai-lana/manifest.m3u8
 #EXTINF:-1 tvg-id="fitness-rewind-by-collage-video" tvg-logo="https://a.jsrdn.com/hls/23195/fitness-rewind-by-collage-video/poster_20241211_002131.jpg" group-title="Lifestyle & Wellness",Fitness Rewind by Collage Video
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/6JK51FOJE3NCVH2POB9E/hls3/now,-1m/m.m3u8
-#EXTINF:-1 tvg-id="americas-boating-channel" tvg-logo="https://a.jsrdn.com/hls/23064/americas-boating-channel/poster_20260324_011813.png" group-title="Lifestyle & Wellness",AMERICA'S BOATING CHANNEL
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/americas-boating-channel/manifest.m3u8
 #EXTINF:-1 tvg-id="daystar-tv" tvg-logo="https://a.jsrdn.com/hls/23240/daystar-tv/poster_20251209_232015.png" group-title="Spirituality",Daystar TV
 https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
 #EXTINF:-1 tvg-id="elevation-church-network" tvg-logo="https://a.jsrdn.com/hls/23224/elevation-church-network/poster_20250623_165557.jpg" group-title="Spirituality",Elevation Church Network
