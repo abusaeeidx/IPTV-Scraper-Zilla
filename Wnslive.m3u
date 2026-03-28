@@ -2,7 +2,7 @@
 # 🖥️ Developed by: Abu SAEEID X Noob
 # 🔗 GitHub/Telegram: @abusaeeidx
 # 📡 IPTV Telegram Channels: @xfireflixbd
-# 🕒 Last Updated: 2026-03-27 07:21:20 AM (BD Time)
+# 🕒 Last Updated: 2026-03-28 07:15:51 AM (BD Time)
 # 📺 Channels Count : 57
 # 📜 Disclaimer:
 # 🎯 This tool does NOT host any content.
@@ -42,6 +42,8 @@ https://clshls.wns.live/hls/stream.m3u8
 https://dathls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="DatisTV.ir@SD",Datis TV
 https://ronhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="DejTV.ir@HD",Dej TV
+https://rdejhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="EPlanetTV.ir@SD",EPlanet TV
 https://eplhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="FX1.ir@SD",FX TV 1
@@ -64,10 +66,22 @@ https://icnet2hls.wns.live/hls/stream.m3u8
 https://ic3hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="IranNama.fr@SD",Iran Nama
 https://iran613hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KalemehTV.uk@HD",Kalemeh TV
+https://klmhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="KanalJadid.uk@SD",Kanal Jadid
 https://kjhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KhabarbinTV.ir@HD",Khabarbin TV
+https://khbhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KhalijTV.ir@HD",Khalij TV
+https://khalijhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KomalaTV.se@SD",Komala TV
+https://komhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KurdChannel.iq@SD",Kurd Channel
+https://kurdchhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="MetaFilmTV.ir@SD",Meta Film TV
 https://metafilmhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="MohabatTV.us@HD",Mohabat TV
+https://mohabathls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="MTC.us@SD",MTC TV
 https://mtchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NavahangTV.fi@SD",Navahang TV
@@ -84,10 +98,18 @@ https://todayhls.wns.live/hls/stream.m3u8
 https://tfnhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaTravel.fr@SD",Persiana Travel
 https://mardomhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PMC.ae@SD",PMC
+https://pmchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PMCRoyale.ae@SD",PMC Royale (1080p)
 https://pmcrohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PROSportInternational.my@SD",PRO Sport International
 https://proshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Sat7Pars.cy@SD",Sat7 Pars
+https://sat7phls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="SetarehTV.uk@HD",Setareh TV
+https://setarehhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Shabakeh7.us@SD",Shabakeh 7
+https://sh7hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SL1.ir@SD",SL 1
 https://slonehls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SL2.ir@SD",SL 2
@@ -98,29 +120,7 @@ https://t2hls.wns.live/hls/stream.m3u8
 https://maxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TVITN.ir@SD",TV ITN
 https://itnhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="KurdChannel.iq@SD",Kurd Channel
-https://kurdchhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Shabakeh7.us@SD",Shabakeh 7
-https://sh7hls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="KomalaTV.se@SD",Komala TV
-https://komhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="VoATVPersian.us@SD",VOA Persian
 https://voaphls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Sat7Pars.cy@SD",Sat7 Pars
-https://sat7phls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PMC.ae@SD",PMC
-https://pmchls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="MohabatTV.us@HD",Mohabat TV
-https://mohabathls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="DejTV.ir@HD",Dej TV
-https://rdejhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ZedTV.ir@HD",Zed TV
 https://zedhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="SetarehTV.uk@HD",Setareh TV
-https://setarehhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="KhalijTV.ir@HD",Khalij TV
-https://khalijhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="KalemehTV.uk@HD",Kalemeh TV
-https://klmhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="KhabarbinTV.ir@HD",Khabarbin TV
-https://khbhls.wns.live/hls/stream.m3u8
